@@ -4,20 +4,20 @@ Being different from their rivals it means they will be seen as unique resulting
 The extant literature at the intersection of institutional theory and strategic management has prioritized the consequences of categorization using taken-for-granted categories. 
 Not much study has been devoted to examining how audiences’ social evaluations evolve over time. 
 However, the influence technology on modern product markets means that both the inherent fluidity of categories and the significant influence of social actors is becoming more evident. 
-At the same time more research has begun to devote more study to explaining this tension that organizations face in establishing identities for themselves and their products through the lens of authenticity as a social evaluation construct. 
+At the same time researchers have begun to devote more study to explaining this tension that organizations face in establishing identities for themselves and their products through the lens of authenticity as a social evaluation construct. 
 Consumers embrace products that are both morally and “type” authentic. 
 
 
-Yet little is known about how attributions of authenticity by producers are validated by audiences and what effects this has on organizational outcomes. 
+Yet little is known about how the type attributions producers make are authenticated by audiences and what effects this has on organizational outcomes. 
 Researchers have suggested that within a collectivity of social actors such attributions evolve over time as consensus is reached. 
 However, relatively few studies have focused on cases where there is discontinuity between the producers’ and audiences’ perceptions of products and the trajectories of products in such cases. 
 Without accounting for such dynamics in the categorization and social evaluation of products by audiences we are left with an incomplete understanding of how organizational outcomes are shaped by collections of agents.  
-In this paper I seek to combine these two separate but interrelated strands of literature. 
-I will examine markets characterized by high information sharing and modern social processes to examine the various trajectories taken by products whose attributions of category membership by producers was accepted or rejected by audiences. 
+In this paper we seek to combine these two separate but interrelated strands of literature. 
+We will examine markets characterized by high information sharing and modern social processes to examine the various trajectories taken by products whose attributions of category membership by producers was accepted or rejected by audiences. 
 
 
-To accomplish this, I will gather data from Steam – the most popular online sales platform for PC games. 
+To accomplish this, we will gather data from Steam – the most popular online sales platform for PC games. 
 Steam employs a tag-based categorization system that is controlled by end-users and allows me to observe the degree to which a producer’s initial positioning vis-à-vis market categories is authenticated or rejected by audiences over time and the influence this has on its social evaluation. 
-I expect to show that the way in which producers are penalized for failure to conform to categorical expectations depends on how not only the initial market position they choose but also whether audiences evaluate such positioning as authentic. 
+We expect to show that the way in which producers are penalized for failure to conform to categorical expectations depends on how not only the initial market position they choose but also whether audiences evaluate such positioning as authentic. 
 In cases where products are perceived as more authentic are afforded more leeway to exist at the more extreme ends of the conformity-distinctiveness spectrum and positioning within the “middle range” to reduce legitimacy penalties is less important. 
 This emphasizes both the active influence of audiences in categorization, the strategic attempts of organizations to manage categorization and how their interaction over time leads to maintenance of market categories.
