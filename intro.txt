@@ -1,11 +1,66 @@
-Organizations must position their products strategically by balancing between conformity and differentiation in order to be successful. 
-Being similar to peers will lead to the perception by audiences that their offerings are legitimate. 
-Being different from their rivals it means they will be seen as unique resulting in competitive advantage. 
-The extant literature at the intersection of institutional theory and strategic management has prioritized the consequences of categorization using taken-for-granted categories. 
-Not much study has been devoted to examining how audiences’ social evaluations evolve over time. 
+Recently, many important scholars have called for studies that extend optimal distinctiveness theory to account for factors such as the dynamism of modern product markets.   
+One important reason for this is that not much study has been devoted to exploring the role audiences and their social evaluations play in determining how producers successfully position their products.
+Successful organizations position themselves by striking a strategic balance between conformity to and differentiation from established market categories. 
+Being similar to rivals means audiences perceive them to be legitimate; being different allows them to carve out a distinct piece of the market and leverage competitive advantages. 
+Institutional theory and strategic management scholars describe the ideal trade-off between these two countervailing forces as optimal distinctiveness. 
+It is well understood that for organizations and their products, being positioned somewhere in the "middle range" leads to better outcomes than offerings that are too similar or different. 
+Yet, despite much excellent research into outcomes associated with optimal distinctiveness, the mechanisms underlying this phenomenon are still relatively ambiguous.
+ 
+
+Our understanding of the broader relationship between categorization and performance is hindered by at least two assumptions the extant literature makes about how social actors interact. 
+First, it is typically assumed that producers are 'market-takers' operating within the confines of 'taken-for-granted' or fixed market categories. 
+Second, the attributions made by producers are usually treated by researchers as 'taken-as-gospel', i.e. they generally do not contend with the possibility that perceptions of organizations and their consumers may not agree. 
+Yet, a recent strand in the literature has begun to emphasize authenticity as an important social evaluation construct. 
+We believe that incorporating authenticity as a relevant construct related to optimal distinctiveness is an important first step in accounting for the reality that consumers do not just take the attributions of producers 'on faith'. 
+In this paper we investigate whether optimally distinct market positioning is mediated by the authentication of social actors and their evaluations. 
+By studying a product platform where consumers rather than producers or intermediaries explicitly control the categorization of products are able to observe how social evaluations influence a product's market trajectory. 
+Our results show that it is not only a producer's initial market positioning that leads to success but rather depends on whether their attributions are authenticated or rejected by audiences.
+This shows that optimal distinctiveness is not only a function of the right level of conformity to norms of a social category but also a successful connection between relevant social actors.   
+
+
+To test these claims empirically, we gather data from an online marketplace for personal computer (PC) video games called Steam.
+As with many modern online product platforms, the products on Steam are organized using a tag-based categorization system.
+However, the fact that the categorical "tags" applied to products are chosen by consumers rather than producers provides for a unique a research opportunity. 
+Specifically, this system allows us to observe the degree to which a producer’s initial positioning vis-à-vis market categories is authenticated or rejected by audiences and whether this changes over time.
+We expect that even when a producer positions their product as optimally distinct, if their attributions are unsubstantiated a different kind of legitimacy discount will be applied by audiences. 
+Conversely, as audiences re-categorize products over time, the audience plays a role in bringing products that are marginally too conforming or distinctive into the middle range.
+This has important consequences for our understanding of the role authenticity attributions play in determining the market trajectories products as a result of social evaluations by audiences such as audiences.
+It also makes an important contribution to literature on authenticity by connecting two distinct perspectives in the literature: that producers must avoid both legitimacy penalties in terms of both conformity and connection.
+Finally, by incorporating a temporal dimension into our observation of market categorization we offer new insight into how dynamic forces of modern product markets influence optimal distinctiveness.
+We now turn to our literature review to explore these ideas in greater detail. 
+
+
+
+
+
+
+
+
+
+##################
+test empirically for optimally distinct products are successful because they in  that connection-type rather than a conformity-type 
+
+
+ we offer insight into the role type authenticity plays in terms of determining the outcomes of optimally distinct products. 
+
+We expect to show that the way in which producers are penalized for failure to conform to categorical expectations depends on how not only the initial market position they choose but also whether audiences evaluate such positioning as authentic. 
+In cases where products are perceived as more authentic are afforded more leeway to exist at the more extreme ends of the conformity-distinctiveness spectrum and positioning within the “middle range” to reduce legitimacy penalties is less important. 
+This emphasizes both the active influence of audiences in categorization, the strategic attempts of organizations to manage categorization and how their interaction over time leads to maintenance of market categories.
+Consumers favor products that are “type” authentic and within a collectivity of social actors such attributions evolve over time as consensus is reached.
+
+Such an approach means that a key social evaluation construct, namely authenticity, is  
+ 
+ 
+
+
+
+
+
+
+SHARDS: 
+Not much study has been devoted to examining 
 However, the influence technology on modern product markets means that both the inherent fluidity of categories and the significant influence of social actors is becoming more evident. 
 At the same time researchers have begun to devote more study to explaining this tension that organizations face in establishing identities for themselves and their products through the lens of authenticity as a social evaluation construct. 
-Consumers embrace products that are both morally and “type” authentic. 
 
 
 Yet little is known about how the type attributions producers make are authenticated by audiences and what effects this has on organizational outcomes. 
@@ -16,8 +71,3 @@ In this paper we seek to combine these two separate but interrelated strands of 
 We will examine markets characterized by high information sharing and modern social processes to examine the various trajectories taken by products whose attributions of category membership by producers was accepted or rejected by audiences. 
 
 
-To accomplish this, we will gather data from Steam – the most popular online sales platform for PC games. 
-Steam employs a tag-based categorization system that is controlled by end-users and allows me to observe the degree to which a producer’s initial positioning vis-à-vis market categories is authenticated or rejected by audiences over time and the influence this has on its social evaluation. 
-We expect to show that the way in which producers are penalized for failure to conform to categorical expectations depends on how not only the initial market position they choose but also whether audiences evaluate such positioning as authentic. 
-In cases where products are perceived as more authentic are afforded more leeway to exist at the more extreme ends of the conformity-distinctiveness spectrum and positioning within the “middle range” to reduce legitimacy penalties is less important. 
-This emphasizes both the active influence of audiences in categorization, the strategic attempts of organizations to manage categorization and how their interaction over time leads to maintenance of market categories.
