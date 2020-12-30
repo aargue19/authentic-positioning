@@ -1,0 +1,468 @@
+INTRODUCTION
+
+Recently, many important scholars have called for studies that extend optimal distinctiveness theory to account for factors such as the dynamism of modern product markets.   
+One important reason for this is that not much study has been devoted to exploring the role audiences and their social evaluations play in determining how producers successfully position their products.
+Successful organizations position themselves by striking a strategic balance between conformity to and differentiation from established market categories. 
+Being similar to rivals means audiences perceive them to be legitimate; being different allows them to carve out a distinct piece of the market and leverage competitive advantages. 
+Institutional theory and strategic management scholars describe the ideal trade-off between these two countervailing forces as optimal distinctiveness. 
+It is well understood that for organizations and their products, being positioned somewhere in the "middle range" leads to better outcomes than offerings that are too similar or different. 
+
+Yet, despite much excellent research into outcomes associated with optimal distinctiveness, the mechanisms underlying this phenomenon are still relatively ambiguous. 
+Our understanding of the broader relationship between categorization and performance is hindered by at least two assumptions the extant literature makes about the social evaluation process. 
+First, recent studies have challenged the assumption that producers are 'market-takers' operating within the confines of 'taken-for-granted' or fixed market categories. 
+Second, as we argue in this paper, attributions made by producers are often treated as 'taken-as-gospel' by audiences.
+To wit, studies generally do not contend with the possibility that perceptions of organizations and their consumers may not agree. 
+However, a recent strand in the literature has begun to emphasize authenticity as an important social evaluation construct when it comes to categories, or so-called 'type-authenticity'. 
+Accounting for authenticity is an important step in extending optimal distinctiveness theory because, in reality, consumers do not necessarily take categorical claims of producers 'on faith'. 
+
+As such, we suggest that optimally distinct market positioning is mediated by the authentication of social actors and their evaluations. 
+To test this assertion we contrast products whose initial market categorization is authenticated or rejected through social evaluation and how this affects their performance trajectories.
+Through social evaluation perceptions of producers and audiences align over time such that initial attributions of authentically positioned products are reinforced and inauthentic attributions are diminished. 
+We conceptualize optimal distinctiveness as being determined not only by how products conform to norms or schema of social categories but whether authentic connections between relevant social actors are formed.   
+This pulls authentically positioned products towards the middle of the IUC while attributions that are deemed inauthentic push products to the lower tails of the performance-differentiation curve.
+Thus, social evaluation can be seen as exerting a polarizing force on products and this helps us to explain why successful organizations and products typically reside somewhere in the 'middle range' of optimal distinctiveness.
+
+To test these claims empirically, we gather data from an online marketplace for personal computer (PC) video games called Steam.
+When a producer releases a new product on Steam they make claims of category membership by applying up to 20 categorical tags to their product.
+However, after products are released their corresponding tags change as new and existing ones are voted on by consumers.
+This provides us with a unique research opportunity as it allows us to observe the level of agreement between the categorical attributions of producers and consumers.
+We show how successful the relationship between positioning and performance depends on authentication through social evaluation.
+By accounting for the influence of social evaluation in this way, our theoretical framework is among the first to integrate two kinds of legitimacy discounts applied by social actors: conformity and connection.
+This represents an important contribution to the literature as it demonstrates the power of social evaluations as a dynamic force that shapes the evolution of market categories.
+
+
+## section on how we have come to our current understanding of OD ##
+From the categorical imperative to optimal distinctiveness
+
+# paragraph about OD from zuckerman to zhao
+Optimal distinctiveness theory asserts that organizational success is a result of a balanced perception of social actors whereby similarity to peers confers legitimacy and differentiation preserves competitive advantage. 
+According to Deephouse (1999), organizations seek to be 'as different as legitimately possible' since audiences deny highly differentiated offerings membership to recognized categories (Zuckerman 1999) and highly conforming ones are crowded out (Haans, 2018; Pontikes & Kim 2017).   
+Many studies have demonstrated this effect and described it is usually referred to as strategic balance (Deephouse 1999), moderate distinctiveness (Haans 2018) or optimal distinctiveness (Zhao 2016, 2019). 
+Bitektine (2011) describes the process as one where evaluating actors classify organizations of unknown cognitive legitimacy using familiar organizational forms or cognitive categories. 
+While successful categorization by organizations is an important determinant of their market success it should not be forgotten that audiences ultimately decide on their membership in market categories. 
+The influence of social evaluations on markets is particularly cogent when one considers the large body of research demonstrating their collective ability to legitimate organizations' membership in market categories.
+
+# paragraph about category spanning, niches, schema - keep in mind why its important for authenticity
+In the organizational theory and strategic management literature, audiences are typically conceptualized as playing a disciplinarian role when it comes to studying organizational positioning in social categories. 
+What it means to be a member of a category or instance of a concept (i.e. schema) is seen to be determined by audience consensus and legitimization of organizational concepts depends on this (Hannan et al. 2019). 
+Agreement among audience members about whether a social object meets the criteria to be included in a culturally defined category determines the authenticity of its affiliation to culturally defined social categories (Carroll 2015). 
+Producers position themselves and their products by claiming affiliation to market categories by incorporating features of their schema (Hannan et al. 2007; Pontikes & Hannan 2014) to resonate with audiences (Giorgi & Weber 2015; Pontikes & Kim 2017). 
+Thus, social evaluation can be seen as exerting a significant influence on both how market categories are maintained and also how strategies of new entrants are determined. 
+Strategic market positioning social evaluations and are inextricably linked and this has inspired a number of scholars to further explore this dynamic. 
+
+# paragraph about calls for more research into audiences
+Recently, several eminent organizational theorists and strategic management scholars have identified the dynamic influence of social evaluations as an important determinant to which more study should be devoted. 
+Most importantly, incorporating the influence of audiences and their social evaluations into research frameworks can help us begin to uncover the mechanisms behind optimal distinctiveness instead of focusing simply on outcomes. 
+According to Kovacs et al. (2017) how audience members interpret claims organizations make about their membership in social categories and how this affects authenticity has lacked systematic investigation.
+Hannan et al. (2007) support an audience-based theory of organizational categories, and more recently have worked on developing a theory of social categories that takes the effects of social interaction into account (2019).
+Recent studies that have approached optimal distinctiveness using audience-centric perspectives and challenged the prevailing moderate distinctiveness assumption (Taeusher et al. 2020) demonstrate the importance of such considerations.
+Unfortunately, the extant literature not offered a satisfying explanation of how social evaluations can mediate the relationship between categorization and performance (Zhao et al. 2017).
+We suggest that the perspective advanced by Lehman et al. (2017) which views authenticity as categorical membership is a useful starting point and we now examine this in greater detail below.  
+
+
+## section on why authenticity is the key to explaining the role of social evaluations in explaining the mechanism OD
+Type authenticity in the eyes of beholders
+
+# paragraph about overlap between authenticity and OD
+Sociologists studying the social evaluation of organizational self-claims of authenticity offer fruitful avenue for incorporating the dynamic nature of market categories into contemporary theory on distinctiveness.   
+In their extensive review of the authenticity literature Lehman et al. (2019) point out that organizations which are deemed authentic by audiences due to their category membership are those that are rewarded. 
+Understanding how audiences interpret authenticity is important when addressing the role audiences play in determining organizational identity (Hsu & Hannan 2005). 
+By accounting for the success or failure of positioning by organizations in terms of type authenticity, it improves our understanding of the mechanism underlying optimal distinctiveness.
+Whether a producer's attributions are implicitly communicated through included features or explicitly through claims of category membership their effectiveness will ultimately depend how their authenticity is evaluated by audiences.
+
+# paragraph about how consumers like authentic producers
+Only recently has an important distinction been made concerning the appropriate conceptualization for study in the context of market categories (Kovacs 2019; Lehman, Kovacs and Carroll 2018; O'Conor et al. 2017).
+Lehman et al. (2019) describe perceptions of authenticity as involving either consistency to a set of values, conformity to social categories or a connection to another entity. 
+When audiences evaluate a producer based on conformity of features to social category, this is also called type-authenticity and it is shown to result in positive outcomes such as higher ratings (Frake, 2017; Kovács et al. 2014; Lehman, Kovács, & Carroll 2014; Verhaal et al. 2015)
+It is important to note that in this paper we distinguish between type-authenticity and other forms that involve judgments about organizations morals or associations to other entities.
+In the broadest sense, authenticity is understood as something being what it claims to be; we feel it is important to point out that in this paper such a notion extends only to claims of categorical membership.
+
+Our theory proposed in this paper attempts to incorporate social evaluations into our understanding of market positioning and by doing so reveal the importance of the subjective gaze of the audience.
+Recent worked aimed at parsing the many interpretations of authenticity as a social evaluation construct has revealed that attributions of category membership are dependent on legitimation by audiences.
+According to Durand & Paolella (2013) a more nuanced understanding of the relationship between producers and audiences is needed.
+As Hannan et al. (2019) say, "...the propensity to accept another unfamiliar individual's categorizations defines taken-for-grantedness."  
+We propose that the mediating effect of audience authentication can help to explain why, in some cases, social objects that combine mutiple categories are rewarded rather than penalized. 
+
+
+# paragraph about how modern markets are more transparent and not controlled by intermediaries - see AOM paper
+An important step in moving the literature forward is the acknowledgment that in modern product markets, judgments about socially significant objects evolve as connections are made among a collectivity of actors.  
+- elaboration
+- evidence
+- evidence
+- what this means for the argument
+- conclusion that transitions into next t.s.
+
+## section explaining what you are predicting and why you make such predictions
+Research context and hypotheses
+
+# paragraph about video games research
+The video game industry has frequently been used as an empirical setting to investigate the distinctive positioning strategies of organizations. 
+- elaboration
+- evidence
+- evidence
+- what this means for the argument
+- conclusion that transitions into next t.s.
+
+# paragraph about the trajectories of products - see Reschke
+One way that such an authentication effect can be demonstrated is by examining the different performance trajectories of market entrants.  
+- elaboration
+- evidence
+- evidence
+- what this means for the argument
+- conclusion that transitions into next t.s.
+
+# paragraph about overlap of features and category schema - the middle range hypothesis see thijs references - barlow etc..
+A focus on organizational self-labeling has been supplanted in recent years by a more nuanced approach that considers a firm's positioning relative to categorical schema and thus more accommodates the 'fuzziness' of concepts. 
+- elaboration
+- evidence
+- evidence
+- what this means for the argument
+- conclusion that transitions into next t.s.
+
+# paragraph about the two main approaches: prototype and platform - and which one we subscribe to
+The two main approaches that are typically used to measure conformity in this way are the prototype and exemplar approaches. 
+- elaboration
+- evidence
+- evidence
+- what this means for the argument
+- conclusion that transitions into next t.s.
+
+HYPOTHESIS 1
+Products that are optimally distinct with regards to the prototype schema have a greater likelihood of success. 
+(from Lehman 2019b: membership in multiple categories generally reduces perceptions of authenticity)
+
+# paragraph about how authentication happens in the context of video games 
+Although an organization does not always achieve cognitive legitimacy through attributions of category membership, it is difficult to observe such a phenomenon.
+- elaboration
+- evidence as Kovacs et al. (2017) point out "There is no scientific method ... (p.83)
+- evidence
+- what this means for the argument
+- conclusion that transitions into next t.s.
+
+# paragraph about how type authenticity mediates niche width - mechanism from intro
+A promising avenue for exploring the interaction between market categories and social evaluations is the recent work that elucidates the mediating role of perceived authenticity on organizations ability to differentiate. 
+- elaboration
+- evidence 
+- evidence
+- what this means for the argument
+- conclusion that transitions into next t.s.
+
+# paragraph about how authentically positioned products are pulled to the top of IUC
+The resulting effect of authentication by audiences is that is increases the likelihood of success by widening the width of the niche, i.e. producers can span categories.
+- elaboration: products which are optimally positioned will be reinforced through agreement and convergence in social evaluations whereas
+- evidence
+- evidence
+- what this means for the argument: although some extreme cases of conformity can be successful this can be explained by spillover status effects like franchises (e.g. madden)
+                                    although some extreme cases of differentiation can be successful, these cases (exemplars, formation of proto-categories) are extremely rare (minecraft)
+- conclusion that transitions into next t.s.
+
+# paragraph about how inauthentic positioning pushes to the top of IUC
+Conversely, when a product does not live up to the attributions of a producer, they are exposed to re-categorization by multiple audiences with conflicting cognitive schemas.
+- elaboration
+- evidence
+- evidence
+- what this means for the argument
+- conclusion that transitions into next t.s.
+
+HYPOTHESIS 2
+Authentication mediates the relationship between optimal distinctiveness and likelihood of success such that, all else being equal, products whose initial categorization will have a lower likelihood of success.
+
+CONCLUSION
+# paragraph to summarize
+From EGOS:
+"Since "fake news" haveprimarily been discussed tat the level of society and politics, we have limited knowledge of these dynamics in the context of organizations and organizing."
+"How do actors perceive, make sense of, and react to post-truth politics in organizational contexts?"
+- Inauthentic categorical attributions are 'fake news' and unlike politics, in markets the 'invisible hand' of social evaluation acts as an echo chamber or casts products to the periphery.  
+- perception that news attributed to an event or person is fake/inauthentic results in polarization also
+
+
+
+# paragraph about how market categories are dynamic not fixed - see thijs paper
+Scholars have begun to suggest that audiences are not only more tolerant of category spanning that previously thought, but also play an important role in determining their emergence and evolution. 
+Typically, 
+- evidence
+- evidence
+- what this means for the argument
+- conclusion that transitions into next t.s.
+ 
+
+METHODS
+
+
+from LEhman 2019 authenticity:
+
+
+
+
+
+
+
+
+- topic sentence
+- elaboration
+- evidence
+- evidence
+- what this means for the argument
+- conclusion that transitions into next t.s.
+
+
+
+######################################## OUTLINE VIEW ######################################
+
+THEORETICAL FRAMEWORK
+
+From the categorical imperative to optimal distinctiveness
+Optimal distinctiveness theory asserts that organizational success is a result of a balanced perception of social actors whereby similarity to peers confers legitimacy and differentiation preserves competitive advantage.
+The scholarship at the intersection of organizational theory and strategic management typically conceptualizes the role of membership in social categories using a framework where audiences are the disciplinarians.
+Recent research aimed at uncovering the mechanisms behind optimal distinctiveness has brought certain social evaluation contexts to light that are cause for a reconsideration of the importance of connections to audiences.
+Yet, although fundamental to our understanding of organizational categories, the role of the social evaluation process on categorization of social objects is often overlooked in the literature.
+Scholars have begun to suggest that audiences are not only more tolerant of category spanning that previously thought, but play an important role in determining their emergence and evolution. 
+
+Type authenticity in the eyes of beholders
+We see the recent work by sociologists studying the social evaluation of organizational self-claims of type authenticity as a fruitful avenue for accommodating the dynamic nature of market categories.  
+The extant research has shown that audiences assign higher value ratings to organizations they perceive as authentic, but only recently have sociologists begun to study this in the context of market categories.
+An important step in moving the literature forward is the acknowledgment that in modern product markets, judgments about socially significant objects can evolve as connections are made among a collectivity of actors.  
+ 
+Research context and hypotheses
+The video game industry has recently been identified in many relevant studies as a rich empirical setting that allows researchers to investigate the distinctive positioning strategies of organizations. 
+One way that Steam can be used to demonstrate the authentication effect proposed in this paper is by examining the different categorization and performance trajectories of market entrants over time.  
+A focus on organizational self-labeling has been supplanted in recent years by a more nuanced approach that considers a firm's positioning relative to categorical schema and thus more accommodates the 'fuzziness' of concepts. 
+The two main approaches that are typically used to measure conformity in this way are the prototype and exemplar approaches.
+
+HYPOTHESIS 1
+Authentication has a positive effect on products with moderate differentiation with respect to market category schema 
+
+Although an organization does not always achieve cognitive legitimacy through attributions of category membership, it is difficult to observe such a phenomenon.
+A promising avenue for exploring the interaction between market categories and social evaluations is the recent work that elucidates the mediating role of perceived authenticity on organizations ability to differentiate.
+The resulting effect of authentication by audiences is that products which are optimally positioned will be reinforced through agreement and convergence in social evaluations.
+Conversely, when a product does not live up to the attributions of a producer, they are exposed to re-categorization by multiple audiences with conflicting cognitive schemas.
+
+HYPOTHESIS 2
+Authentication mediates the relationship between optimal distinctiveness and likelihood of success such that, all else being equal, products whose initial categorization will have a lower likelihood of success.
+
+###############################################################################################
+
+
+
+BROAD TOPIC
+
+We think that the social categories constructed by audiences involve both typicality judgements and vagueness (or fuzziness) in category boundaries (Hampton 2006). 
+Boundaries around social units are fuzzy. Important sociological concepts (such as identity, legitimation, and authority) lack sharp boundaries.
+-	Hannan et al. 2007 
+
+
+The most sustained progress toward building a Sociology of Concepts and Categories (SCC) has taken place in the study of organizations and the economy. 
+Our research is grounded in a tradition referred to as organizational ecology, which aims to explain change in the organizational world. 
+This perspective centers on organizational population dynamics, including change in the composition of organizations within a given population as well as among sets of populations. 
+Specifying the appropriate  way to define populations emerged as a central issue to be resolved. 
+A few studies pointed to the utility of developing a new approach to defining populations – one that emphasized how organizations are perceived by relevant audiences, such as customers or investors, rather than what their core features were.
+
+More recently, in his review piece on the sociology of culture [in the Annual Review of Sociology], Orlando Peterson (2014) drew numerous connections between work in sociology and in cognitive psychology, asserting that “ the basis of all cultural knowledge is our capacity to categorize” [p. 8].
+
+In doing so, 
+-	Hannan et al. 2019
+ 
+REFERENCE I
+
+We analyze these processes from the point of view of individual members of an audience as well as from that of the audience as a whole. 
+It also provides strong connections with contemporary research by organizational theorists such as Zuckerman (Zuckerman, Kim, Ukanawa, and von Rittman 2003) and Hayagreeva Rao (Rao et al. 2003, 2005), who have been pioneers in analyzing how audiences and audience structures affect organizations.
+-	Hannan et al. 2007
+
+Nevertheless, the questions of social construction of different types of social evaluations, their maintenance over time and space, as well as the processes of their change and destruction remain underexplored. The growing complexity of the social settings, …., present an important challenge for social evaluations scholars. These developing factors, …., create a new social reality and produce social processes unseen just a few decades ago. The goal of this sub-theme is to facilitate a conversation not only about the construction of social evaluations, but also about the processes of maintenance of positive and negative evaluations within a collectivity of actors and the processes of destruction and change of social evaluations of a given entity. We believe that the exploration of these and other prominent topics with novel methods can not only provide validation to many of the literature’s tenets and open new directions for future research, but also advance our understanding of the process of construction, maintenance, and destruction of social evaluations. How do social evaluations change in the age of disruption? How do ongoing global challenges versus sudden global crises affect social evaluations at the micro, meso, and macro levels? What is the role of individuals, social networks, mainstream media, social media, authorities, and other actors in this process? How do recent developments in communications and information sharing, such as social media, affect the dynamics of social evaluations? What are the micro and macro-level mechanisms that ensure persistence of social evaluations? What does it take to reverse a negative evaluation? For example, how do various social actors repair trust or reputation, rise from a low status category, or overcome stigma? What prompts evaluators to make (un)favorable evaluations of an organization and under what conditions (Bundy & Pfarrer, 2015; Zavyalova et al., 2016)? Can social evaluations be a liability at the micro-level, but a benefit at the macro-level (or vice-versa)?
+-	EGOS Sub-theme 25
+
+
+
+ 
+REFERENCE II
+
+Another line of inquiry considers the role that relevant audience members’ categorical understandings play in the emergence and growth of organizational populations. 
+Organizational categories emerge when audience members perceive and label a group of organizations as members of a common set (Polos et al. 2002; Hannan Polos and Carroll 2007). 
+The identity of organizations influences the development of the emerging category. 
+Emergence is facilitated when the identities of organizations in this group are highly focused or similar (McKendrick and Hannan 2014) or when the set occupies a position in identity space that the audience finds familiar (Ruef, 2000). 
+Firms strategically claim membership in categories based on their desires to both gain legitimacy and to differentiate themselves from rivals (Pontikes and Kim 2017). 
+Differences among types of audience members also complicate category-based dynamics. 
+For example, whether producers are penalized for failure to conform to categorical expectations can depend on the audience evaluating the organization. 
+-	Hannan et al. 2019
+
+ 
+GAP
+
+Audience members can differ in the extent to which they participate in a consensus (memberships in audiences can be partial); and organizations can differ in their degree of membership in categories (memberships in categories can be partial).
+-	Hannan et al. 2007
+
+Finally, although sociological analysis has prioritized the consequences of categorization, it also needs to examine the genesis and evolution of concepts and categories. The lack of a precise model of how categorization occurs at the individual level presents a barrier to understanding the dynamics of concepts.
+
+From Ch. 9: More work is needed to develop a model that captures beliefs about the positions of objects that have received more than one categorization. Such a model will have to be based on studies of the violation of the conditional interdependence assumption. Understanding the systematic patterns of such violations is an exciting avenue for future research. 
+
+Relatively few studies, for example, have focused explicitly on how evaluations of objects vary by audience member. Since most empirical studies do not collect information on different agents’ conceptual systems (but rather focus on a shared set of concepts that define a domain), this is an open question.
+
+Whether others are members of the ingroup or outgroup as far-reaching implications: people favor ingroup members; exaggerate differences between themselves and outgroup members; minimize differences between ingroup members; and are more disposed to remember positive things about ingroup members and negative things about outgroup members.
+-	Hannan et al. 2019
+
+Yet, attributions of authenticity tend to evolve over time as audiences collectively agree on what ought to be considered authentic. Future research might, therefore, usefully examine how these attributions evolve over time as organizations participate in discourse.
+-	Kovacs 2017
+
+
+URGENCY
+
+Social movement theorists, who naturally focus on the possibility that collections of agents can sometimes change institutions, stress the importance of attending to audiences and their dynamics. 
+-	Hannan et al. 2007
+
+
+Paul DiMaggio (1997), for example, argued that “sociologists who write about the ways that culture enters into everyday life necessarily make assumptions about cognitive processes” [p. 266]. He therefore urged scholars to shift their attention to the cognitive underpinnings of culture, “to treat the schema as the basic unit of analysis for the study of culture, and to focus on social patterns of schema acquisition, diffusion and modification.”.
+  
+HERO NARRATIVE
+
+RESEARCH QUESTION
+
+
+###################################################################################################
+Cattani 2016:
+And yet, empirical data from a variety of
+fields call into question exactly how much categorical consensus actually exists even in
+established markets, and, indeed, how the construct of categorical consensus should even be
+conceptualized and measured.
+
+
+###################################################################################################
+
+
+OPTIONAL OUTLINE
+paragraph about how claims by producers and perceptions of audiences don't always align and problems this presents
+paragraph about why when audiences accept positioning claims performance is better 
+
+HYPOTHESIS 3
+Consensus over categorization of products between producers and audiences mediates the relationship between conformity and audience appeal (measured as proportion of original producer tags kept)
+
+
+##paragraph about how certain words are more important than others
+- borrow from Thijs MAYA paper
+
+#paragraph about why type of category will moderate relationship between agreement and audience members
+-  measured as position in schema hierarchy like thijs, or distance to adjacent concepts pontikes 2008
+
+
+HYPOTHESIS 4a
+The positive relationship between audience consensus and number of audience members is amplified when they agree on 'important' features of schema 
+
+
+HYPOTHESIS 4b
+The positive relationship between producer consensus agreement and number of audience members is amplified when they agree on 'important' features of schema 
+
+
+#paragraph about how one audience member can influence another's social evaluation
+- Look at EGOS sub-theme 
+
+#paragraph about why products that span categories take longer for audiences to arrive at consensus and decreases performance
+- The competing audiences battle over the recategorization which leads to confusion (greater number and more conflicting tags / reviews)
+
+
+HYPOTHESIS 4
+There is a negative relationship between the number of conflicting tags/reviews and audience members attracted
+
+#paragraph summing up arguments and contributions
+
+######################################################################################################################################################################################################
+
+
+##paragraph about how claims by producers and perceptions of audiences don't always align and problems this presents
+- take examples from authenticity stuff from Lehman and Kovacs
+
+##paragraph about why when audiences accept positioning claims performance is better 
+- changes in identity are bad: Hsu & Hannan 2005 "Specifically, the hazard of mortality for firms.."
+- mechanism = authenticity?
+- even if you conform if the audience disagrees they start arguing about categorization and new audience members are confused 
+
+HYPOTHESIS 3
+Consensus over categorization of products between producers and audiences mediates the relationship between conformity and audience appeal (measured as proportion of original producer tags kept)
+
+
+##paragraph about how certain words are more important than others
+- borrow from Thijs MAYA paper
+
+#paragraph about why type of category will moderate relationship between agreement and audience members
+-  measured as position in schema hierarchy like thijs, or distance to adjacent concepts pontikes 2008
+
+
+HYPOTHESIS 4a
+The positive relationship between audience consensus and number of audience members is amplified when they agree on 'important' features of schema 
+
+
+HYPOTHESIS 4b
+The positive relationship between producer consensus agreement and number of audience members is amplified when they agree on 'important' features of schema 
+
+
+#paragraph about how one audience member can influence another's social evaluation
+- Look at EGOS sub-theme 
+
+#paragraph about why products that span categories take longer for audiences to arrive at consensus and decreases performance
+- The competing audiences battle over the recategorization which leads to confusion (greater number and more conflicting tags / reviews)
+
+
+HYPOTHESIS 4
+There is a negative relationship between the number of conflicting tags/reviews and audience members attracted
+
+#paragraph summing up arguments and contributions
+
+METHOD
+
+######################################################################################################################################################################################################
+
+Natural selection as the mechanism behind categorical evolution
+are market categories are like species - no, not really because species don't usually mix
+they do sometimes though - ligers, donkey
+a new iteration of a species is created when a pair of "producers" come together and combine their "features"
+so two humans of different race combine to create a mullato
+ This is subject to random selection, but nature, ie. natural selection weeds out the unsuccessful interactions
+the audience are the natural forces that drive selection in product markets and kill off unsuccessful combinations
+Producers are like genetecists will be in the future, attempting to engineer humans for better performance, survival
+
+from hsu_2006:
+    Analytical treatments of the niche in organizational ecology
+are premised on Hutchinson’s (1957, 1978) abstract conceptualization
+of the niche as the set of points in n-dimensional
+space for which a biological population’s fitness is non-negative.
+
+######################################################################################################################################################################################################
+
+3rd hypothesis that category spanners are subject to more re-classification than category conformers
+
+hsu_hannan_kocak_2009:
+Here,
+it is argued, category bridgers often fail to develop
+the capabilities to excel in any category.
+Participating in multiple categories disperses
+focus and effort. Because tastes differ among
+audiences attached to different categories, the
+qualities needed to appeal to one category differ
+from those needed for other categories. As
+a result, category spanning reduces one’s appeal
+
+Instead of agreement, is what I should be measuring the difference between mixtures of grades of membership in categories of producers versus the grade of membership proposed by audiences?
+
+######################################################################################################################################################################################################
+
+pontikes_2012:
+Experimental research shows that increasing the number of labels
+that classify a set of products leads to increased satisfaction with a person’s
+choice, even when the labels do not provide any information about the products
+(Mogilner, Rudnick, and Iyengar, 2008).
+
+$$$$
+Simply identifying with ambiguous labels or multiple labels
+can affect how an entity is evaluated, even if its underlying attributes are
+unchanged.
+
+This is what they call effects from "mere-labeling" but can't it be explained by the fact that more labels and more ambiguous labels create more opportunity for let-downs of audiences?
+
+Consumers are market-makers too, not just market-takers
+
+"Venture capitalists are an interesting example of market-makers
+because they are not only external evaluators that provide critical resources to
+organizations but also are insiders who are interested in redefining an industry’s
+structure by investing in ‘‘game-changing’’ organizations. They look to make a
+large return on their investments, and to do that, they finance risky, early-stage
+companies." 
+
+Audiences not only punish when they are let-down by classifications but reward producers because they want to extract additional value/utility from their purchase

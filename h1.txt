@@ -1,0 +1,206 @@
+#############################################################################################################################################################################################################################
+paragraph about how firms claim membership in categories (a.k.a. "strateic categorization" (Vergne and wry, 2014)) to gain legitimacy and differentiate from rivals (audience perspective)
+#############################################################################################################################################################################################################################
+
+pontikes_kim 2017:
+
+barlow_verhaal_angus 2019: 
+    "We argue and find support for the notion that organizations can strategically categorize themselves and endogenously influence demand for their products in two-sided platform ecosystems such as the Google Play app store."
+    "Third, we add to the emerging literature on strategic categorization (Cattani et al., 2017; Durand & Khaire, 2017; Khaire, 2018; Pontikes, 2018; Pontikes & Kim, 2017; Vergne & Wry, 2014)."
+    "Past research argues that categories are used by audiences to gain information and that organizations can strategically leverage semantic cues and categorical nomenclature to communicate with and help shape how consumers view them."
+    "In our empirical setting, app developers choose how to describe their app, highlighting the features or characteristics that they perceive to be most important or salient, ultimately signaling to consumers how they fit within the competitive framework of a given market category.
+    "Our results show that this process has a tangible impact on an app's level of competitive advantage with respect to both average performance and superior performance."
+    "This finding supports the notion that organizations can use strategic categorization “to communicate information and to position themselves favorably with respect to competitors” (Pontikes & Kim, 2017: 73)."
+
+barlow verhaal hoskins 2018:
+    "The grade of membership in a product category is the levels of consensus (Negro, Hannan, & Rao, 2011) from the audience regarding how closely an organization’s product compares to the category’s prototype (Hannan et al., 2007)."
+
+cattani_2014:
+    "What has come to be known as the “categorical imperative” perspective is predicated on the assumption that category boundaries help to identify the list of attributes that a firm or its offerings must possess to be included in a category (e.g., Zuckerman, 1999; Rao et al., 2005)."
+    "Categories are theorized as components of an enacted environment that embody the expectations that suppliers, media critics, regulators, equity analysts, competitors, and consumers impose on organizations."
+    "Thus, unlike economics and strategic management, organizational theory emphasizes how categorical boundaries are contingent upon the specific audience constructing them."
+    "Porac, Thomas and Baden-Fuller (1989) called this the “competitive cusp” on which firms must strike a balance between similarity and difference with other organizations in the market or industry."
+    "Deephouse (1999) introduced the notion of “strategic balance” in suggesting that firms seek profitable positions at moderate levels of similarity with others in a given industry." 
+    "Porac et al. (1995) suggested that firms attempt to conform on the small subset of particularly “diagnostic” attributes that define categories while also attempting to differentiate themselves from other category members on non-diagnostic attributes."
+    "What some have called “strategic categorization” is yet a fourth area of potentially fruitful interdisciplinary research (e.g., Vergne and Wry, 2014; Pontikes and Kim, forthcoming; Rhee, 2015).
+    "Strategic categorizations are systematic attempts to manipulate a firm’s category membership and/or the category structure as a whole to enhance a firm’s added value."
+    $$"This reinforces Whetten’s (2006) suggestion that market identities are in reality “claims” that are explicitly made to signify a unique space that reflects a firm’s commitments." 
+    $$"These claims are embedded in a sensemaking process in which firms are interpreting available cues and matching these cues to interpretive categories."
+    $$"That firms engage in strategic categorization has been well established in the strategy and organizations literature (e.g., Santos and Eisenhardt, 2009; Navis and Glynn, 2010; Khaire and Wadhwani, 2010; Hargadon and Douglas, 2001; Rhee, 2015),.."
+
+
+cloutier_ravasi_2019:
+    "Organizational categories, for instance, shape how competitors .. position themselves strategically within the industry (Porac & Thomas, 1990; Porac, Thomas, Wilson, Paton, & Kanfer, 1995)."
+    "[Organizational categories] also influence how investors (Tripsas, 2009; Zuckerman, 1999) or consumers (Rosa, Porac, Runser-Spanjol, & Saxon, 1999) assess the appropriateness of funding or the desirability of buying from a specific organization."
+
+durand_granqvist_tyllstrom_2017:
+    "Signaling is another, somewhat related act, with connections to both economic theories (Heil & Robertson, 1991; Spence, 1973) and studies on impression management (Dutton & Dukerich, 1991; Elsbach, 1994; Fiss & Zajac, 2006)."
+    "Signaling refers to extolling some valuable traits to potentially interested evaluators or using certain cues and memberships as a means to access information about competitors (Heil & Robertson, 1991)." 
+    "This may include labeling but also myriad other more subtle ways to convey market memberships."
+    "Signaling allows various participants to influence the way they are categorized by others, while providing the opportunity to remain uncommitted to any particular category."
+
+glynn_navis_2013:
+    "Thus, categories are not merely devices used by audience to understand and sort organizations, but also resources that organizations can appropriate to their advantage."
+
+granqvist_grodal_woolley_2013:
+    "..executives use market labels strategically to guide stakeholders’ perceptions of their firm." 
+    "Our findings show that executives do not accept market categories as prescribed classification brackets but that they actively manage their firm’s category membership depending on their perceptions of the label’s connotations and denotations." 
+    "executives have to actively engage in disassociation in order to avoid inclusion in unwanted categories"
+
+grodal_kahl_2017:
+    "In efforts to shape other participants’ categorizations of their products, producers describe their offerings in press releases, advertisements, and regulatory documents like SEC filings." 
+    "Consumers read these texts, engage in conversation with other stakeholders, and use the products."
+
+hannan_2010:
+    "The new theory defines the fundamental niche in terms of intrinsic appeal and engagement. " 
+    "Whether a producer’s offering is intrinsically appealing to themembers of the audience at a social position depends on how well it fits the prototypical taste of that local audience." 
+    "The conversion of intrinsic appeal into actual appeal depends, according to this theory, on engagement by producers." 
+    "Engagement means (a) learning about the tastes of local subaudiences, (b) designing the offering to make it attractive to those tastes, and (c) trying to establish a favorable local identity and reputation." 
+
+hsu_2006:
+    "In this context, the principle of allocation implies that films targeting a wide diversity in genres will have a large, diverse audience from which to draw resources." 
+    "Studios also capitalize on multi-genre appeal in film promotion by manipulating the portrayal of a film’s generic identity in order to target different audiences."
+
+hsu_grodal_2015:
+    "Research suggests that early category producers expend considerable effort sensegiving about their proposed category and its collective membership to influence market participants’ category understandings and gain their attention and resources (Aldrich and Fiol 1994; Dobrev and Gotsopoulos 2010; Kennedy 2008; Khaire and Wadhwani 2010; Lounsbury and Glynn 2001; Navis and Glynn 2010; Santos and Eisenhardt 2009)." 
+    "Our idea that taken-for-grantedness provides producers with the opportunity to strategically manipulate core category features combines the theory of category development outlined by Hannan and colleagues (2007) with the idea that producers actively manipulate category features (Rao et al. 2005) to develop novel insights about categorical dynamics." 
+    "In their study of the U.S. brewing industry, for example, Carroll and Swaminathan (2000) observe that contract brewers often concealed the origin of their products (many of which were produced by mass production breweries at lower cost) and deceptively marketed them as small production microbrews to appeal to the lucrative microbrew market." 
+    
+hsu_hannan_kocak_2009:
+    "Engagement within a category means taking actions to make offerings available and known to members of that category’s audience."  
+    "This includes learning about the specific tastes for a category and the characteristics of the category audience, designing features of the offering to fit these tastes, tailoring the mode of presentation, and establishing a clear and desirable organizational identity (Hannan et al. 2003)." 
+
+phillips_zuckerman_2001:
+    "Since high-status actors derive great benefit from their recognition as players in the interface, their nonconformity should be of a rather limited sort." 
+    "By contrast, low-status actors, as outsiders to the interface, are indifferent or even hostile to prevailing practice." 
+    "As such, they are more open to altering the rules of the game and are less interested in change that reinforces the status quo ante." 
+
+pontikes_2012:
+    "In the software industry, an informal taxonomy has emerged through interactions among managers, venture capitalists, and some analysts."
+    "Managers influence classification by claiming a market label."
+    "They do this through press releases, in brochures, on Web sites, and through personal communications with the media and potential investors." 
+    "Affiliating with a market label reflects the organization’s self-identity as well as the image it wants to project (Gioia, Schultz, and Corley, 2000; Whetten, 2006; Tripsas, 2009)." 
+    "These affiliations are a starting point for how external actors classify (and thus evaluate) an organization (Hsu and Hannan, 2005)." 
+
+vergne_wry_2014:
+    "A product category is recognized as such when similar sociotechnical artifacts come to be exchanged as products within a distinct market segment that serves as a basis for interaction between producers, buyers, and critics." 
+    "A product category coalesces around a set of sufficiently similar product features involving technologies, cultural features, values, and potential uses." 
+    "organizations “often try to shape category systems and influence the choice of categories into which they are classified” (Negro, Kocak, & Hsu, 2010: 4)." 
+
+verhaal_khessina_dobrev_2015:
+    "Based on this discussion, we propose that in markets where product quality is hard to evaluate, producers seek to engage consumers through the strategic naming of their products." 
+    "Engagement actions include (a) “designing or redesigning features of the offering to make it more attractive to that audience” and (b) “trying to establish a favorable identity in the relevant [sub]audience” (Hannan et al. 2007, p. 179)." 
+    
+
+
+#############################################################################################################################################################################################################################
+paragraph about how category spanning leads to lower performance (due to penalties by audiences)
+#############################################################################################################################################################################################################################
+
+
+
+barlow_verhaal_hoskins 2018:
+    "..negative evaluations are tied to the confusion (Negro, Hannan, & Rao, 2010; Negro & Leung, 2012) created by membership in different and potentially incoherent market categories."
+
+cennamo_santalo_2013:
+    "Also, we find that simply positioning platforms in the segment with the largest mass of users may not be a sufficient strategy for winning the market as a whole because, at least in our context, it is possible for platforms to differentiate with distinctive positioning."
+    "The strategic dilemma inherent in choosing that market position should not be underestimated, however, given our finding that an intermediate level of distinctiveness relative to rivals is negatively correlated with performance."
+
+cloutier_ravasi_2019:
+    "[Organizational categories] also influence how investors (Tripsas, 2009; Zuckerman, 1999) or consumers (Rosa, Porac, Runser-Spanjol, & Saxon, 1999) assess the appropriateness of funding or the desirability of buying from a specific organization."
+
+durand_granqvist_tyllstrom_2017:
+    "Existing research explains that categories act as disciplinary mechanisms that bring order to organizational interactions in markets (Hsu et al., 2009; Rao, Monin, & Durand, 2005)." 
+    "Following an ecological view on categories (Hannan et al., 2007), most studies on market categories use the premise that individuals minimize their cognitive burden by referring to stored exemplars."
+    "spanners induce cognitive ambiguity by mixing categories and generate identity ambiguity that leads to audiences not recognizing them as potential suppliers; these actions make audiences doubt spanners’ competence (Hannan et al., 2007; Hsu, 2006)." 
+    "Thus, the more a given organization or offer deviates from the existing prototypical categories, the less the audiences are able to understand the intended meanings." 
+    "As a result, “audiences navigate better across markets and social worlds when categories are clearly marked and unambiguous” (Durand & Paolella, 2013, p. 1101)."
+
+durand_rao_monin_2007:
+    "Code-preserving changes maintain an organization’s membership in the social form or category, protect its legitimacy, enable an organization to draw on existing competencies, and, therefore, are likely to be rewarded by critics seeking to enforce social codes." 
+    "By contrast, code-violating changes dismantle membership in the existing social form, impair the legitimacy of the organization, impose coordination costs and are likely to be met with disfavor by external evaluators." 
+    "Our study .. suggests that firms should change their codes strategically in order to increase their evaluations by third parties."
+
+glynn_navis_2013:
+    "..when categorizing has a different objective (as in understanding a creative or relatively unfamiliar musical product; e.g., Phillips & Kim, 1999), the categorical imperative may be decreased or irrelevant. 
+    "In this case, when categorical boundaries are unclear or ignored, prototype based processing may be even more critical in classification because it offers a benchmark for comparisons."
+    "The drive in categorizing here is to reduce identity uncertainty and ambiguity; organizations that invoke categorical confusion invite audience sanctions while those perceived to be sharp or focused in their category membership are rewarded (e.g., Hannan & Carroll, 1992; Hsu et al., 2009; Zuckerman, 1999)."
+    "A different treatment of the audience role is seen in Navis and Glynn’s (2010) study of the emergence of satellite radio. Here, the audience is viewed in an interactive role, co-creating the category in conjunction with the member organizations in the collaborative venture of category emergence." 
+
+grodal_kahl_2017:
+    "Producers might create definitions of a category that place their products advantageously within a particular market place." 
+    "Consumers, competitors, and critics might react to such definition attempts in very different ways (Pontikes & Kim, 2017)." 
+    "Indeed, categories serve as a central strategic role for producers trying to navigate nascent markets (Granqvist et al., 2013)." 
+
+haans_2018:
+    "..suggest that both legitimacy- and competition-related pressures weaken to such an extent that distinctiveness as distance-from-the-average loses its performance implications altogether in heterogeneous categories." 
+    "This therefore suggests that there is no strong imperative—either for conformity to or differentiation from the average—in heterogeneous categories and that audiences may hold different theories of value that determine what offerings are attractive to them in such categories. (Paolella & Durand, 2016; Zuckerman, 2017)." 
+    "Taken as such, I view my findings as consistent with recent work on categories highlighting the importance of alternative categorization approaches, such as a goal-based approach (Durand & Boulongne, 2017; Durand & Paolella, 2013), or alternative benchmarks such as the most salient or exemplar member of a category (Vergne & Wry, 2014; Zhao, Ishihara, Jennings, & Lounsbury, 2018)."
+    "At the same time, my results clearly show that the prototype-as-average approach has strong explanatory power in homogeneous categories—where the average tends to be more meaningful, to start." 
+
+hannan_2010:
+    "The fundamental niche, in this construction, consists of the subset of the social space in which a producer has positive actual appeal (which requires positive intrinsic appeal and engagement)." 
+
+hsu_2006:
+    "In recent years, however, a number of empirical studies have focused on how audiences’ perceptions and reactions discipline producers (Zuckerman, 1999; Zuckerman and Kim, 2003; Carroll and Swaminathan, 2000; Rao, Monin, and Durand, 2003, 2005; Dobrev, Ozdemir, and Teo, 2005)." 
+    "More specifically, I examine how the ability of audience members to clearly perceive and identify an organization’s fit with targeted market positions varies systematically with niche width and the consequences of this for organizations competing to attract audiences’ resources." 
+    "These arguments lead to two main predictions representing the key trade-offs in the principle of allocation:" 
+    "Hypothesis 1 (H1): The number of audience members an organization attracts is an increasing function of its niche width." 
+    "Hypothesis 2 (H2): The appeal of an organization to audience members is a decreasing function of its niche width."
+
+hsu_grodal_2015:
+    "For example, prior knowledge about a market domain channels actors’ perceptions toward particular feature dimensions thought to be relevant to category membership (Durand and Paolella 2012; Rehder 2003). 
+    "In line with this, studies suggest that actors compare their newly forming schema with schemas for related preexisting categories (Pontikes 2013; Rosa et al. 1999) to inform understandings of whether offerings are the “same or different” (Weick, Sutcliffe, and Obstfeld 2005:414; see also Weick 1995)." 
+
+hsu_hannan_kocak_2009:
+    "It has been shown empirically that spanning categories has negative consequences: category spanners receive less attention and legitimacy and have lower chances of success and survival (Dobrev, Kim, and Hannan 2001; Zuckerman 1999)." 
+    "Consistent with the classical sociological notion that social identity is granted by external agents, Hannan and colleagues’ theory of categories holds that audience members grant a producer’s membership in a category." 
+    "Our analysis of films demonstrates that an increase in the width of a category-membership niche lowers the appeal and the success of offerings." 
+
+hsu_negro_perretti_2012:
+    "We relate these dimensions to the clarity of a category’s cognitive schema and argue that lower clarity results in an ambiguous context that encourages higher rates of category spanning." 
+    "We propose that, while category spanning generally decreases the appeal of organizations’ products and thus their overall fitness, it can also pave the way for exceptional market success." 
+
+hsu_roberts_swaminathan_2012:
+    "Actors that that bridge or straddle established market categories tend to be ignored (Zuckerman 1999, 2000; Zuckerman and Kim 2003), deemed less appealing (Hsu 2006b, Rao et al. 2005), or otherwise devalued (Hsu et al. 2009)." 
+
+kovacs_hannan_2015:
+    "Sociological studies show that conceptual boundaries do prove consequential in diverse domains: combining genres generally generates some form of direct or indirect devaluation (for reviews, see Hannan (2010) and Negro, Koçak, and Hsu (2010b))." 
+    "Sociological research has addressed the consequences of combining genres for diverse kinds of entities."
+    "For instance, research on individuals in markets finds that bridging lowers:.." 
+    "Research on organizations finds that mixing genres reduces:.." 
+    "Finally, some research examines the effects of spanning for the genres themselves." 
+    "Producers with a strong organizational identity (net of the categorical identities that apply) likely face weaker pressures to conform to audience expectations."
+
+leung_sharkey_2014:
+    "Recent research suggests that this audience-driven or perceptual account of the penalty for multiple-category membership holds in market settings such as the stock market (Zuckerman 1999), French cuisine (Rao et al. 2005), feature films (Hsu 2006), eBay (Hsu et al. 2009), and wines (Negro and Leung 2013)." 
+
+negro_kocak_hsu_2010:
+    "Kovacs and Hannan argue that external audiences’ reaction to category spanning depends on the fuzziness of the spanned categories." 
+    "When categories have fuzzy boundaries, spanning categories does not cause much additional confusion for the audience. When the categories that firms span are highly distinctive, audience members have greater difficulty assessing the producer and therefore devalue it more." 
+
+tan_roberts_2010:
+    "An invention will attract fewer examiner-added citations when there is greater coherence between the technological domains that it builds upon and those in which examiners specialize." 
+    "Objects with less familiar combinations of attributes fail to evoke familiar peer groups. From here, two things might happen: they are excluded from consideration (Zuckerman, 1999) or they are coerced into the closest category and suffer problems of interpretation (Hsu, 2006; Zuckerman, 2004)." 
+    "In either case, audience members fail to fully appreciate the technical merits of an offering in the manner intended by the producer." 
+
+vergne_wry_2014:
+    "studies arguing that legitimacy is predicated on an organization conveying an identity that fits within an established category (e.g., Lounsbury & Glynn, 2001; Navis & Glynn, 2011; Wry et al., 2011)." 
+    "An organization engages in category straddling when it has simultaneous membership in two or more categories located at the same level of the classification hierarchy." 
+
+zhang_liu_2017:
+    "One way that brands can counteract or lessen the negative impact of wider niches on brand popularity through audience consensus is by ensuring that the newly extended categories fit well with the established categories, so that consumers still perceive a coherent and consistent brand image." 
+
+zuckerman 1999:
+    leg. discount
+  
+kovacs hannan 2015:
+    depends on distance btw concepts
+
+ olzak 2016:
+    depends on distance btw concepts
+
+
+
+HYPOTHESIS 1
+Category focus increases the number of audience members a przoduct attracts (measured as adherence to schema)

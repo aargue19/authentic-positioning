@@ -1,51 +1,266 @@
-Introduction
+INTRODUCTION 
+#############################################################################################################################################################################################################################
+paragraph about recent studies accounting for audiences 
+#############################################################################################################################################################################################################################
 
-Recently, many important scholars have called for studies that extend optimal distinctiveness theory to account for factors such as the dynamism of modern product markets.   
-One important reason for this is that not much study has been devoted to exploring the role audiences and their social evaluations play in determining how producers successfully position their products.
-Successful organizations position themselves by striking a strategic balance between conformity to and differentiation from established market categories. 
-Being similar to rivals means audiences perceive them to be legitimate; being different allows them to carve out a distinct piece of the market and leverage competitive advantages. 
-Institutional theory and strategic management scholars describe the ideal trade-off between these two countervailing forces as optimal distinctiveness. 
-It is well understood that for organizations and their products, being positioned somewhere in the "middle range" leads to better outcomes than offerings that are too similar or different. 
+barlow_verhaal_hoskins_2018:
+    "Because products serve as a key interface between producers and consumers (Rosa, Porac, Runser-Spanjol, & Saxon, 1999), a particularly important category membership for organization is the products they produce."
+    "Specifically, we find that products in stigmatized product categories receive less-favorable social evaluations than similar products in nonstigmatized categories."
 
-Yet, despite much excellent research into outcomes associated with optimal distinctiveness, the mechanisms underlying this phenomenon are still relatively ambiguous. 
-Our understanding of the broader relationship between categorization and performance is hindered by at least two assumptions the extant literature makes about the social evaluation process. 
-First, it is typically assumed that producers are 'market-takers' operating within the confines of 'taken-for-granted' or fixed market categories. 
-Second, the attributions made by producers are usually treated by researchers as 'taken-as-gospel', i.e. they generally do not contend with the possibility that perceptions of organizations and their consumers may not agree. 
-However, a recent strand in the literature has begun to emphasize authenticity as an important social evaluation construct. 
-We believe that accounting for authenticity is an important step in extending optimal distinctiveness theory because, in reality, consumers do not necessarily take categorical claims of producers 'on faith'. 
+bitektine_2011:
+    "Nevertheless, this passive role allotted to the evaluating audiences in the literature underestimates the importance of active cognitive processing, information search efforts, and social interactions that precede the formation of legitimacy, reputation, and status judgments by social actors." 
+    "The exploration of the evaluators’ perspective on legitimacy, reputation, and status can .. provide insight into social and cognitive factors that can compromise organizations’ efforts to improve their legitimacy, reputation, or status."
 
-In this paper we suggest that optimally distinct market positioning is mediated by the authentication of social actors and their evaluations. 
-By tracking the evolution of products' categorization by social evaluators over time we contrast the performance trajectories of products whose initial positioning is ultimately authenticated or rejected by consumers.
-Products are re-categorized by audiences over time such that initial attributions of authentically positioned products are reinforced and inauthentic attributions are diminished over time. 
-Authentic products are drawn towards the middle of the IUC and those deemed inauthentic pushed to the extremes of differentiation spectrum, which determines their performance.
-This polarizing force that social evaluation exerts on products help us to explain why optimal distinctiveness typically exists somewhere in the "middle range".
-We conceptualize optimal distinctiveness as being determined not only by how products conform to norms or schema of social categories but how connections between relevant social actors are formed.   
+bitektine_haack_2014:
+    "We regard cognition and communication among evaluators as essential elements of the cross-level legitimacy process and, thus, extend discursive and rhetorical approaches to legitimacy (Green, 2004; Suddaby & Greenwood, 2005; Vaara & Tienari, 2008).."
 
-To test these claims empirically, we gather data from an online marketplace for personal computer (PC) video games called Steam.
-As with many modern online product platforms, the products on Steam are organized using a tag-based categorization system.
-Initially, when a producer releases a new product they make claims of category membership by applying up to 20 categorical tags to their product.
-However, once products are released their corresponding tags change as new and existing ones are voted on by consumers.
-This provides us with a unique a research opportunity as it allows us to observe the degree to which a producer’s initial positioning in market categories is authenticated or rejected by audiences over time.
+cloutier_ravasi_2019:
+    "..future research should remain open to the possibility that the discursive activity through which organizations negotiate “legitimate distinctiveness” (Navis & Glynn, 2011) in the eyes of constituents may be partly misaligned with members’ beliefs (and possibly feelings) about “who we are”, and begin to investigate the causes and consequences of this misalignment."
 
-We expect that even when a producer positions their product as optimally distinct, if their attributions are unsubstantiated a different kind of legitimacy discount will be applied by audiences. 
-Conversely, as audiences re-categorize products over time, the audience plays a role in bringing products that are marginally too conforming or distinctive into the high-performing middle range.
-By incorporating a temporal dimension into our observation of optimal market categorization we offer new insight into how dynamic forces influence producers and product markets.
-Our theoretical framework is among the first to integrate two kinds of legitimacy discounts applied by social actors: conformity and connection.
-This has important consequences for our understanding of the role authenticity plays in mediating the effects of optimal distinctiveness on performance by accounting for the dynamic influence of social evaluations.
-We now turn to our literature review to explore these ideas in greater detail. 
+durand_granqvist_tyllstrom_2017:
+    "The trend shows no sign of abating; category studies continue to be of theoretical interest to scholars of organization and management, as reflected in high rates in conference papers and journal submissions."
+    "it redirects attention from interactor cognitive schemes toward the multiplicity of actorhood." 
+    "The articles in our volume effectively show that actions of producers, consumers, analysts, or intermediaries cannot be understood in isolation but need to be analyzed in interaction with each other."
 
-Literature review
+durand_rao_monin_2007:
+    "..although strategic management researchers are attuned to the cultural forces that produce organizational change (DiMaggio and Powell, 1983; Zajac and Kraatz, 1993), the consequences of adopting a strategic social positioning vis-a-vis a critical audience have been largely ignored, except in a few studies (Rao, 1998; Zuckerman, 1999; Phillips and Zuckerman, 2001)." 
 
-# paragraph about OD from zuckerman to zhao
-# paragraph about category spanning, niches, schema - why its important for authenticity
-# paragraph about calls by hannan and zhao , egos for research into audiences
-# paragraph about overlap between authenticity and OD
-# paragraph about how consumers like authentic producers
-# paragraph about the different kinds of authenticity
-# paragraph about how market categories are dynamic not fixed - see thijs paper
-# paragraph about how modern markets are more transparent and not controlled by intermediaries - see AOM paper
-# paragraph about how type authenticity mediates niche width - mechanism from intro
-# paragraph about the trajectories of products - see 
+etter_ravasi_collenoni_2019:
+    "While these assumptions still have explanatory value regarding traditional news media, they seem less able to account for the substantive changes that social media have introduced in the production, dissemination, and consumption of publicly available evaluations."
 
-# h1: IUC relationship between differentiation and performance
-# h2: Positive relationship between category spanning and performance is mediated by audience authentication of producer's initial market positioning
+grodal_kahl_2017:
+    "..three social mechanisms in category evolution that have been omitted by the existing market categorization literature: (1) the importance of the interaction between market participants in shaping categories;.." 
+    "To develop a better understanding of how and why categories evolve requires addressing the communicative exchanges among market participants, which provide context and meaning to the individual words." 
+
+haans_2018:
+    "Nevertheless, rhetoric versus actual behavior may matter differently for legitimacy versus competition and in different contexts, such that further study is warranted to investigate effects of different sources of distinctiveness on firms' performance and in different contexts." 
+
+hannan_2010:
+    "So we have some evidence that partiality matters on each side of the producer-audience interface." 
+    "However, these studies consider only one side at a time."
+    "The next challenge is to model the two sides simultaneously." 
+    "This means developing theories of the coevolution of the producer and audience roles and of the language that expresses them." 
+
+hsu_2006:
+    "Focusing on the relationship between internal and external perceptions of identity may allow researchers to investigate issues such as how external beliefs are circumscribed by internal attributions (or vice versa), how internal and external perceptions of identity diverge, and the impact of such divergence on organizational behavior and functioning." 
+    "Such protests suggest that an empirical study of the validity of the assumed relationship between population density and cognitive legitimacy would contribute greatly to general acceptance of this core ecological theory." 
+    As in the current paper, this type of test would require direct study of audience members’ perceptions." 
+
+hsu_grodal_2015:
+    "We thereby extend the few existing studies within organizational sociology that recognize the gap between expected and actual features of producers as a strategically important issue (Granqvist et al. 2013; Phillips and Kim 2009; Waguespack and Sorenson 2010; Zhao, Ishihara, and Lounsbury 2013)." 
+    
+kovacs_hannan_2015:
+    "Empirical progress on issues of spanning has been rapid (Hannan 2010; Negro et al. 2010b)." 
+    "This is due partly to the proliferation of archives and websites that assign categorical memberships to objects and also provide audience reactions." 
+    "Researchers have devised ways to use these data to characterize the strength of producers’ association with genres and to relate patterns of affiliation to the audience reaction." 
+    "The measures proposed for estimating distances in conceptual spaces could aid researchers in studying the evolution of genres over time. Genres that are distant in one time period might move closer in subsequent ones." 
+    "Adjusting for the dissimilarity of genres seems particularly useful when the conceptual structure is in flux." 
+    "Indeed the finding that distance among concepts and the contrast of the associated categories influence objects’ evaluation might have interesting dynamic consequences." 
+    "If objects in low-contrast categories are more likely to get categorized in multiple genres, then the contrasts of these categories further decrease; and the contrasts of crisper categories would further increase or at least remain stable." 
+    "Pontikes and Hannan (2014) find evidence of such a pattern in the software industry." 
+    "These processes would imply a tendency toward the macro-level polarization of categories’ contrasts." 
+
+leung_sharkey_2014:
+    "..future work should also attempt to more directly explore, at the micro level, how evaluators view and experience multiple-category members."
+    "It would be insightful to have more direct evidence on the extent to which confusion, compared with negative perceptions, accounts for the multiple-category penalty." 
+
+negro_kocak_hsu_2010:
+    "Some research explicitly considers distinct audiences, including consumers (when studying the emergence of product-market categories) and managers (when studying the construction of competitor sets)." 
+    "Various segments of the audience engage in collective sensemaking and language, media coverage, and publicity become reflections of their collective agreement (Rosa et al., 1999; Kennedy, 2005)." 
+    $$$$
+    "Despite the push for audience-centric definitions of category boundaries, much empirical research in this tradition continues to rely on archival sources that only indirectly measure perceptions of audience members to specify category membership." 
+    "However, much empirical research has relied on industrial, product-based distinctions – only indirectly measuring perceptions of distinct audience members when specifying category membership." 
+
+pontikes_2012:
+    "Previous literature has not investigated how audiences in the role of marketmakers react to ambiguity." 
+    "But previous research that has examined how classification affects evaluation has used externally created categories, such as those enforced by legal codes (Ruef, 2000; Negro, Hannan, and Rao, 2010), or defined on Web sites (Hsu, Hannan, and Kocxak, 2009; Kova´cs and Hannan, 2010)." 
+    "This has introduced some conflict into the literature over whether categorical assignments reflect internal organizational identities (Albert and Whetten, 1985; Whetten, 2006)." 
+
+vergne_wry_2014: 
+    "First, categories embody behavioral expectations shaped at the interface between producers and audiences." 
+    $$$$
+    "Rather we argue that powerful insights may emerge by identifying points of intersection between micro and macro approaches to categories research." 
+    "In particular, leveraging micro insights, such as how audience members conceive of category prototypes and stereotypes (Durand & Vergne, 2012), may help to provide a fresh perspective on macro-level category effects, while laying the foundation for a uniquely organizational approach to category studies." 
+    "focus on ‘category studies’ signals the utility of ‘looking across the fence’ (Agarwal & Hoetker, 2007) to consider multiple perspectives on categories and how these might be bridged in ways that advance management scholarship more generally (see also Durand & Paolella, 2013; Kennedy & Fiss, 2013)." 
+    "By providing a bridge between studies of internal and external classification, these studies point to the tension that can exist between organizations and their audiences and the potential role that power, resources, and politics play in classification processes (Santos & Eisenhardt, 2010; Cornelissen, 2012; Wry et al., 2013)." 
+
+verhaal_khessina_dobrev_2015: 
+
+
+#############################################################################################################################################################################################################################
+paragraph about how recent studies assume that producer and audience perceptions align and my RQ 
+#############################################################################################################################################################################################################################
+
+etter_ravasi_collenoni_2019:
+    "Even before social media, audiences drew one another’s attention to pieces of news, shared them, commented on them, etc. These responses, however, remained localized; therefore, for the most part, they were treated as negligible (Barnett & Pollock, 2012)."
+    "..social media now enable vast audiences to serve as both senders and receivers of evaluations and to collectively engage in the co-production of these evaluations." 
+    "Past studies assumed media to broadcast information vertically, with limited opportunities for audiences to respond."
+    "Consistent with this idea, past research had little concern for how audiences would react to, question, or discuss the content to which they were exposed (Barnett & Pollock, 2012)." 
+
+durand_granqvist_tyllstrom_2017:
+    "..studies assume that all audience members would homogeneously mobilize family resemblance to assess products and producers."
+    "Research on market categories is surprisingly silent about what counts for as acts of categorization." 
+    "Categorizing processes, like all social processes, need continuous energy to be sustained. But what do actors do exactly when they “categorize” entities in markets?" 
+    "Another, hitherto less developed, approach to categorization addresses its social aspects (Granqvist et al., 2013; Navis & Glynn, 2010; Porac, Thomas, & Baden-Fuller, 1989; Rosa et al., 1999)." 
+    "The co-production process that we described earlier, however, directly exposes the representations of organizations offered by the news media or other sources to real time contestations, additions, and elaborations from audience members."
+    "In this respect, the reputation of an organization can be considered as always potentially in a state of “becoming” (Tsoukas & Chia, 2002), publicly re-produced by multiple actors through the production and dissemination of evaluative representations."
+
+hsu_2006:
+    - measured niche width and audience consensus using classifications of 3 platforms
+    - This is potentially the opinions of only 3 audience members
+    - She measures consensus among audience members whereas I measure agreement between audiences and producers
+
+granqvist_grodal_woolley_2013:
+    "..future studies should further explicate categorization processes and dynamics of label use by integrating data on executives’ and stakeholders’ labeling activities." 
+    "Future studies that combine data on both executives and stakeholders would clarify such reciprocal influences in market categorization and provide a deeper understanding of categorization processes." 
+
+grodal_kahl_2017:
+    "By engaging in these conversations, market stakeholders not only map products into categories but also change existing categories and create new ones." 
+    "It is through the continued interaction between market participants that they reach an agreement about the category’s symbolic and social boundaries." 
+    "Categories vary with regards to the degree of contestation that exists over a category’s symbolic and social boundaries." 
+    "Instead of viewing categories as stable and predetermined, the discursive lens emphasizes that market stakeholders are agentic in how they use and shape categories." 
+
+hannan_2010:
+    "Hsu et al. (2009a) analyzed the effects of the width of categorymembership niches on the appeal and success of feature films.." 
+    "Film studios and distributors usually eschew genre labels (to avoid suggesting that a large portion of the audience might not be interested), leaving the assignments to external agents (especially critics)." 
+    "These public assignments allow memberships to be measured from the perspective of key agents in the audience (assuming that the critics correctly understand and reflect the conventions of the audience to whom they are addressed)." 
+
+hsu_2005:
+    "Although the audience has played a prominent role in such theories, understanding of this role has been largely conceptual generalized audience pressures have been treated as a powerful yet unobservable phenomenon." 
+
+hsu_hannan_2005:
+    "We lack detailed knowledge about how intrinsic appeal and engagement combine to produce actual appeal." 
+    "Do sellers with wider category-engagement niches do an inferior job of engaging their target audiences as compared with their more specialized counterparts?"
+    "Because we cannot directly observe the intensity of engagement, we assume that greater intensity generally leads to greater quality of engagement." 
+
+kovacs_hannan_2015:
+    For instance, Zuckerman (1999) observes decisions by analysts to cover or not cover firms as entities, not as a set of business segments, each to be considered separately." 
+    "Hsu (2006) observes what ratings filmgoers give to a film, but not what they think of a film as a drama, comedy, horror, musical, and so forth." 
+    "In these cases researchers observe overall appeal, not appeal as an instance of any of the relevant genres." 
+    "The difference we highlight concerns the mode in which the audience members typically encounter an object."
+    "If these encounters are specialized to a genre context, the context presumably shapes the audience’s focus and ties their assessments of appeal to it." 
+    "Otherwise, audience members likely make assessments that consider all of the assigned labels."
+    "Indeed it might be very hard for audience members to parse out their separate reactions with respect to each label."
+    "So the analysis must be modified to deal with the difference between these two generic situations." 
+
+    $$$$
+    "In most settings studied, including one of ours, a market intermediary (e.g., managers of publications or websites that post reviews) assigns the labels." 
+    "The analyst does not know how audience members would apply the labels." 
+    "This means that using such data to test arguments stated at the level of the audience member, as above, requires an assumption that the audience uses the language in a homogenous manner, that they associate similar schemas with the labels of the domain."
+    "Obviously we would prefer to have access to data that tell what schemas audience members associate with the relevant labels."
+    "Then categories could be represented as sets in a space of the values of conceptually relevant features and relations."
+    "Questions about combining genres could then be addressed in terms of positions in the feature space."
+    $$$$
+
+    $$$$
+    "We take advantage of the upsurge in interest and involvement in online websites that publish critical reviews by general audience members." 
+    "Our theory pertains to intrinsic appeal, and the ratings reflect actual appeal, which, according to Hannan et al. (2007), depends on intrinsic appeal and engagement."
+    "It seems clear that book publishers and restaurant staff have engaged the audience, but we do not know much about the intensity of engagement." 
+    "We assume that actual appeal is proportional to intrinsic appeal." 
+    "We assume that variations in intrinsic appeal overwhelm variations in engagement so that actual appeal is proportional to intrinsic appeal." 
+    $$$$
+
+leung_sharkey_2014: 
+    $$$$ - this provides support for the idea that a producer's or curator/reviewers' labels don't necessarily agree with audiences' perception
+    "Moreover, we found that the penalty for category spanning not only diminished but, in fact, subsided entirely when labels were not present to highlight the identity of category spanners."
+    "We investigated whether category spanners were any less attractive than others in terms of their default rates, the relevant performance dimension in this setting, and found that this was not the case."
+    "This leads us to conclude that, in this setting, category labels highlighted what turned out to be nonexistent performance differences. Although multiplecategory members may, in some cases, be penalized for underlying quality differences, our analyses indicate that they will be devalued even in the absence of such issues." 
+    "We view this as strong evidence of the perceptual underpinnings of the multiple-category discount." 
+    $$$$
+
+negro_kocak_hsu_2010:
+    $$$$ - AUTOMATICALLY ASSUME
+    "And if the schema for the category becomes highly taken-for-granted such that audience members automatically assume that producers with the label have schema-consistent features, it is regarded as a form." 
+
+pontikes_2012:
+    $$$$ - literature also assumes that consumers are market takers
+    "Consumers are market-takers."
+    "For them, organizations that claim ambiguous labels may not come up when they are searching for a specific product or service." 
+    "When they do evaluate the offerings of these organizations, they may use the ‘‘wrong’’ criteria and so the organization will come up short." 
+    "As a result, market-takers may devalue organizations that claim multiple market labels or those that are in ambiguous labels." 
+    "But what makes consumers an audience of market-takers is that they use classification for purposes of evaluation and are not interested in changing the classification structure in the domain they are purchasing from." 
+    "Previous research has overlooked such contexts; most studies either explicitly or implicitly assume that market labels may be ambiguous initially but will either develop clear boundaries and become unambiguous, or die off." 
+    "Previous research has emphasized how classification is used as a shortcut that helps market-takers quickly identify and evaluate different offerings." 
+    "But the human mind is by no means beholden to classification; for example, experts can see both more differentiation and more commonality among labels."
+    "This study extends these ideas and shows that for market-makers, defying the existing system is actually appealing." 
+    "Such findings can generalize to other audiences that want to create new types of classification in product markets, labor markets, or even social categories." 
+
+tan_roberts_2010: 
+    "As this example suggests, inventors and patent applicants have their own ideas about which existing inventions contributed meaningfully to their discoveries." 
+    "Thereafter, the examiners at the United States Patent and Trademark Office (USPTO) can and often do reach different conclusions about relevant prior art." 
+    "When this happens, they add citations that inventors and applicants did not know of or believe to be relevant." 
+
+
+#############################################################################################################################################################################################################################
+paragraph about specifics of how I will solve the problem 
+#############################################################################################################################################################################################################################
+- I get a detailed measure of which categories they agree on and which they don't and by how much
+- We investigate the dynamics between producers and audiences not just one side like Hsu
+
+hannan_2010:
+    "The basic idea is that audience members assign a set of labels to objects (producers/products here)." 
+    "More abstractly, a label function associates labels and names with objects (individuals or sets). "
+    "Because an audiencemembermight apply more than one label to an object (e.g., a proper name and one or more cluster/category labels), a useful approach specifies the label function as mapping to the power set (the set of all subsets of a set) of the set of labels available to that agent." 
+
+zhang_liu_2017:
+    "In a social tagging system, users give short text annotations (tags) to describe and organize objects (e.g., brands) in a shared, online environment (Trant, 2009)." 
+    "The resulting collections of tags become a collaborative work of a large number of consumers’ perceptions of a brand’s positioning, also referred to as ‘‘folksonomy’’ (Pink, 2005; Vander Wal, 2007)." 
+    "The value of these tags for consumers emerges when tags are shared in a large pool and consumers can search brands of interest and explore new brands by using tags (Vander Wal, 2007; Ko¨rner et al, 2010)." 
+    "Firms derive value from these tags because, by using tags, firms can promote brand popularity through the information discovery process and help forge consumer relationship established by common interests (Marlow et al, 2006)." 
+
+
+
+    
+
+
+#############################################################################################################################################################################################################################
+paragraph about the contribution / cost of not answering the question 
+#############################################################################################################################################################################################################################
+hsu 2006:
+    This updates the earlier work of Hsu 2006 to incorporate newer ideas of distance to adjacent categories, novelty expecting audiences etc..
+
+bitektine_2011:
+    "Nevertheless, this passive role allotted to the evaluating audiences in the literature underestimates the importance of active cognitive processing, information search efforts, and social interactions that precede the formation of legitimacy, reputation, and status judgments by social actors." 
+    "The exploration of the evaluators’ perspective on legitimacy, reputation, and status can .. provide insight into social and cognitive factors that can compromise organizations’ efforts to improve their legitimacy, reputation, or status."
+    "Cognitive legitimacy, on the one hand, spares the organization from increased scrutiny and distrust of external social actors by making the organization understandable and taken for granted for its audiences and permitting cognitive typification of this organization into a preexisting category (Berger & Luckmann, 1966; Meyer & Rowan, 1977; Suchman, 1995)." 
+    "Sociopolitical legitimacy, on the other hand, does imply the act of normative evaluation, and if the evaluation is favorable, sociopolitical legitimacy is conferred on the organization."
+    "Thus, cognitive legitimacy helps organizations avoid evaluation and questioning by their audiences (Meyer & Rowan, 1977; Suchman, 1995), whereas in the case of sociopolitical legitimacy, the evaluation does occur and results in a favorable judgment regarding the organization (Dowling & Pfeffer, 1975; Parsons, 1960)." 
+        - protecting them against scrutiny implies that audiences scrutinize.
+
+bitektine haack 2014: 
+    "While the extant institutional theory literature is concerned primarily with the effect of institutional strategies on macrolevel institutions and organizational outcomes (Battilana et al., 2009; Greenwood & Suddaby, 2006; Maguire & Hardy, 2009; Phillips et al., 2004), 
+    the multilevel approach to institutional processes, which we propose here, calls for attention to the effects of institutional strategies on individual evaluators and their legitimacy judgments, which, in turn, affect observed macrolevel outcomes."
+
+cattani 2014:
+    "Competitive categorization processes are fundamental to differentiated markets."
+    "They are so fundamental that categories are sometimes pushed to the background in research on markets as taken-for-granted assumptions when modeling competitive processes and outcomes."
+    "But assuming away market categories can only be taken so far."
+
+durand_rao_monin_2007:
+    "a consideration of the role of critics, raters, and intermediaries is necessary if we are to appreciate the socio-cultural constraints on organizational change (Podolny, 1993; Zuckerman, 1999; Washington and Zajac, 2005)."
+
+etter_ravasi_collenoni_2019:
+    "..social media––and the new forms of interaction that they enable––challenge consolidated assumptions about media reputation, and we offer a theoretical framework that, while not denying the persisting influence of traditional news media and corporate communication, begins to account for how social media are shifting the dynamics through which publicly available evaluations are shaping collective reputational judgments."
+    "..assuming a structural distinction between the senders (the media) and receivers (the audience) of evaluations offers an increasingly unrealistic portrayal of how information is disseminated in the media landscape, where stakeholders can no longer be assumed to be mere receivers of information." 
+
+grodal_kahl_2017:
+    "Tracking category labels allows researchers to effectively trace the diversity and sequence of words used to label a category, and thus map changes over time." 
+    "It does not, however, enable researchers to identify the underlying mechanisms that drive this change." 
+    "To develop a better understanding of how and why categories evolve requires addressing the communicative exchanges among market participants, which provide context and meaning to the individual words." 
+    "Viewing categorization from a discursive perspective, thus, opens up the possibility of misinterpretation and modification of intended meanings.
+
+hsu_2006:
+    Could argue that you are making a similar contribution as this with respect to producer audience alignment:
+    "Although a considerable body of work has emerged around this trade-off ['principle of allocation'], the principle itself has never been tested empirically." 
+    "Studies have merely inferred its presence indirectly through the differential mortality rates of generalists versus specialists in particular kinds of environments (Freeman and Hannan, 1983; Hannan and Freeman, 1989; Dobrev, Kim, and Hannan, 2001)." 
+    "Providing empirical support for this principle among organizations would appear to be of particular importance given the influx of purely theoretical work in niche literature." 
+    "The current study contributes to existing work in organizational ecology by highlighting the role that audience members’ perceptions play in niche-based dynamics."
+
+kovacs_hannan_2015:
+    "Here we specialize the arguments to contexts that do not supply a genre focus." 
+    "That is, we assume that audience members consume and evaluate particular offers (restaurant meals and books in our empirical studies) and that they try to make sense of their producers and evaluate their skills in light of their conceptual inventories." 
+    "We propose that investigating such issues requires attention to the distances among concepts, specifically the distances among an audience member’s schemas." 
+
+verhaal_khessina_dobrev_2015:
+    "We also contribute to the literature on organizational categorization in general." 
+    "This literature has focused on consequences of category spanning and advantages of having a crisp category membership (e.g., Zuckerman 1999, Hsu 2006, Hsu et al. 2009, Kovács and Hannan 2011), but not much is known about how a firm can achieve this sharp categorization in perception of audiences." 

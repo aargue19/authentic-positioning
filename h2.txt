@@ -1,0 +1,201 @@
+#############################################################################################################################################################################################################################
+paragraph about how consensus among audiences leads to better outcomes (antecedents of audience consensus)
+#############################################################################################################################################################################################################################
+
+cattani 2014:
+    "Thus, collective category nomenclatures may best be viewed as semi-flexible market “vocabularies” that provide a pool of distinctions and labels to be used within markets by various actors for different strategic and procedural purposes (Lowenstein, Ocasio, and Jones, 2012). 
+    "An important implication of this conclusion, however, is that categories are at least partially endogenous to competitive relationships, an endogeneity that must be accounted for in research on competition and competitive advantage."
+    "One way of recognizing this endogeneity is to refrain from using industry level category nomenclatures in competition research until one has assessed the degree of categorical consensus existing within an industry, as well as how such nomenclatures may be used differently by different actors.
+    "Moreover, category stability and consensus themselves become interesting theoretical variables."
+    "One can ask questions about the logic or theorization used to construct categories in particular markets (e.g., Durand and Paoella, 2013), the dynamics of category emergence, stabilization, evolution, and change (Kennedy and Fiss, 2013), the distribution of category agreements and disagreements (DiMaggio, 1987),.."
+    $$"It is self-evident that firms are motivated to claim identities that give them an advantage in a market. From a strategic perspective, however, the key issue is category plausibility and whether a firm’s category claims are accepted or contested.
+
+durand_granqvist_tyllstrom_2017:
+    "In contrast to the cognitive perspective, examining categorization as a social process emphasizes how market categories are produced and enacted differently in various social situations providing distinct cues and norms."
+    "The social perspective also brings to the fore the ways in which actors, when using categories, interact and share their understanding about the category system with others and hence come to shape it."
+    "Therefore, meanings and boundaries of market categories are collectively negotiated and construed (Khaire & Wadhwani, 2010; Navis & Glynn, 2010; Rosa & Spanjol, 2005; Rao et al., 2005; Weber et al., 2008)...."
+    "Overall, categorization can be seen as a social process of communication that reproduces, maintains, or undermines the institutional bases and value systems that relate to a particular market category (Bajpai & Weber, 2017; Cornelissen, Durand, Fiss, Lammers, & Vaara, 2015), also providing a context for these actions."
+    "Paolella and Sharkey explore the puzzling fact that category spanning often, but not always, leads to confusion for the audience."
+    "So doing, Paolella and Sharkey stress the importance of the market context in which both agreement and consistency take place in the perception of firms’ identity."
+
+etter_ravasi_collenoni_2019:
+    "By doing so, organizational audiences are now able to publicly challenge evaluations offered by the media, or even to subvert images projected by organizations themselves to highlight contradictions between communication and action."
+    "future studies may explore the use of qualitative methods to examine in more depth how multiple actors advance, dispute, or negotiate evaluative judgments about an organization or its products on social media."
+
+glynn_navis_2013:
+    "Through the mutual sensegiving and sensemaking activities of the category’s member firms and their audiences, the boundaries, practices, and membership criteria of satellite radio were established as increasingly “real” and legitimate (Kennedy, 2008; Kennedy et al., 2010)." 
+
+granqvist_grodal_woolley_2013:
+    "..signaling ambivalent category membership provides a means to manage the risk of deceitful use of a label and to safeguard against potential future dilution of the category." 
+    "Second, in nascent markets, executives often manage affiliations with several markets simultaneously." 
+    "Using multiple labels reflects executives’ struggle to make sense of their firms’ categorical membership." 
+    "Hedging their bets allows them to postpone binding claims about any single market category." 
+    "Third, by hedging, executives enable stakeholders to interpret the label depending on their own predispositions."
+
+grodal_kahl_2017:
+    "Market categories are created and evolved through negotiations and contestations between diverse market participants." 
+    "More specifically, the meaning of a category is not homogeneous among different market participants." 
+    "“This heterogeneity in cognitive perceptions may cause a mismatch between producers’ categories and those used by different audiences, i.e. buyers, critics, or the wider public” (Durand & Paolella,2013, p. 6)." 
+
+hannan_2010:
+    "Cattani et al. (2008) argue that consensus about labels depends on the network structure of the audience, the density of ties over the producer-audience interface, and the temporal stability of the membership of the audience." 
+    "Lack of consensus also lowers the likelihood that an offering will be widely judged to be inferior. 
+    "In this sense, lack of consensus ought to lower the variance of evaluations." 
+    "Negro et al. (2010) argue that critics and enthusiasts generally make finer and more careful distinctions in the upper range of offerings." 
+    "If so, then the disagreement about a category spurred by lowered contrast will tend to lower evaluations overall." 
+
+hsu_2006:
+    "A core notion driving literature on legitimacy is that audience members’ shared beliefs about what types of organizations are desirable and appropriate exert strong pressures on organizations (see Suchman, 1995, for a review)." 
+    "Audiences’ beliefs about producers’ identity can thus be seen as forming at the level of the project rather than the studio (Zuckerman and Kim, 2003)." 
+    "This meshes with McKendrick et al.’s (2003) finding that producers who participate in a variety of market categories are less likely to instill clear identities in the eyes of relevant audiences relative to producers with “perceptually focused” identities." 
+    "One way in which such clarity of fit manifests itself is through consensus in the beliefs audience members hold about how to classify organizations relative to established market positions (Zuckerman, 2004)." 
+    "Hypothesis 3 (H3): Audience members’ consensus about an organization’s fit with targeted taste positions is a decreasing function of its niche width." 
+    "Hypothesis 5 (H5): Consensus among audience members about an organization’s fit with targeted taste positions mediates the effect of niche width on the appeal of an organization to audience members." 
+
+hsu_grodal_2015:
+    "For example, when executive and part-time MBA programs were first created, they were intensively scrutinized by business schools, companies, and potential students to determine whether they provided knowledge and skills equivalent to traditional MBA programs." 
+    
+hsu_hannan_kocak_2009:
+    "Audiences assess category membership using schemas they associate with category labels." 
+    "An agent’s schema for a category label tells what it means to be a full-fledged member of that category." 
+
+hsu_hannan_2005:
+    "Audiences are collections of agents with an interest in a domain and control over material and symbolic resources that affect the success and failure of the claimants in the domain."
+    "Category membership can be linked to the intrinsic appeal of a producer/product to an audience member—that is, the degree to which it fits her taste (Hannan et al. 2007). 
+    "An audience member’s schema for a category sets expectations for what features a category member should (and should not) have." 
+    "Agents generally prefer offerings that meet their expectations for a category." 
+    "On the audience side, a producer/ product’s category-membership niche (to an audience member) is the profile of grades of membership in categories that the agent assigns to a producer." 
+
+leung_sharkey_2014:
+    "Taken together, then, existing research suggests two possible sources of the penalty for multiple-category membership: 
+    (1) devaluation as a result of perceptual issues stemming from audience members having difficulty understanding or viewing illegitimate actors that do not fit clearly into culturally shared categories
+    and (2) devaluation driven by operational challenges that result in poorer quality and performance for actors who try to do many different things at once." 
+
+negro_kocak_hsu_2010:
+    "What we label a controlled agency view draws mechanisms from cognitive science and its information processing, cognitive efficiency framework. Categories are functional for individuals, guiding market interactions and facilitating market order." 
+    "As audiences try to make sense of the world, their schemas, meaning systems converge eventually." 
+    "The controlled agency view focuses on ‘‘small’’ audience members such as customers that have limited influence on categorization as individuals.."
+
+pontikes_2012:
+    "But in these studies, it is often unclear whether labels reflect an organization’s self-claimed identity." 
+    "Further, in many industries, no actor emerges with the authority to ‘‘officially’’ define how organizations should be classified, and people rely on informal folk classification to navigate the domain." 
+    "This type of classification can be difficult to study, as there is no agent that maintains a list of organizational membership in markets." 
+    "Instead, there are competing claims from multiple audiences." 
+    "Through discourse, shared meaning is created." 
+    "Much of the research cited above presumes that it is claiming multiple market labels that gives rise to ambiguity, but recent studies show that labels themselves vary in strength of meaning, and an organization can experience the effects of ambiguous classification if it identifies with even one ambiguous label."
+
+tan_roberts_2010:
+    "When searches through prior art are guided by clear and shared understandings of which technological domains are relevant and how specific inventions relate to one another, there will be fewer instances of examiners adding prior art that was not anticipated by applicants." 
+    "Without these shared understandings, there will be a lower degree of consensus among inventors, applicants and examiners and therefore more examiner-added citations." 
+
+vergne_wry_2014:
+    "Whereas for category researchers inspired by institutional theory, legitimacy is about congruence with broad social norms (Suchman, 1995), scholars in the ecological tradition view legitimation as “conformity of feature values to schemata”, such that “legitimation grows with the level of consensus within the audience about the meaning of a label” (Hannan et al. 2007: 98)." 
+    "Thus, according to the former, a criminal organization is not legitimate because it violates many of the norms that society regards as appropriate. But according to the latter, a criminal organization can be legitimate provided that it conforms to the population schemata (e.g., the boss must be chosen among close family members)." 
+
+verhaal_khessina_dobrev_2015:
+    "Ultimately, a firm must become recognized as a legitimate actor that embodies the identity claims put forth by its product names.
+    "To do so, a firm must substantiate its claims." 
+    "To make a purchasing decision, consumers need to determine which products among the variety available on the Market appeal to them (Rosa et al. 1999)." 
+    "The actual appeal of a product is driven by (1) its intrinsic appeal defined as the perceived fit between product attributes and a consumer’s taste and (2) a producer’s engagement Of consumers with the intent to convert the product’s intrinsic appeal into actual appeal (Hannan 2010)." 
+    "Intrinsic appeal is higher when product characteristics salient to consumers are aligned with the collective identity of the market, i.e., when they meet audience expectations about what attributes the product should possess (Hannan et al. 2007)." 
+    "Building on the key finding from research on names about the importance of name congruence with expectations of audiences (Dobrev 1999, Glynn and Abzug 2002, Lee 2001, Cooper et al. 2005), we propose that the predicted beneficial effect of oppositional names may attenuate and even disappear if the audience sees the oppositional name as incongruent with the characteristics of the product it is attached to." 
+
+zhang_liu_2017:
+    "Because consumers’ tastes and preferences are different, as a brand stretches to broader niches, consumers’ perceptions of a brand’s fit with its targeted segments decrease as well (Hannan et al, 2003; Hsu, 2006)."
+    "Such clarity of fit between a brand and its targeted segments is reflected in the consensus among audiences about how to classify a brand relative to established market positions (Zuckerman, 2004; Hsu, 2006)." 
+    "The more narrowly a brand positions itself, the greater is the consensus among audiences about a brand’s positioning (Hsu, 2006)." 
+    "In contrast, brands that span a broad range of niches experience heightened levels of disagreement among audiences about their positioning." 
+
+
+#############################################################################################################################################################################################################################
+paragraph about why when audiences agree on positioning it leads to greater appeal - explain the mechanism?
+#############################################################################################################################################################################################################################
+
+glynn_navis_2013:
+    "..as organizations within a category may vary in their alignment, audiences too may vary in their assessments of the fitness of an entity’s membership in the category and the associated behavioral expectations (e.g., Hogg & Terry, 2000; Navis & Glynn, 2011)." 
+    "..judgments of organizational worth—when tethered to firms’ identity claims—are, at least in part, formed in the eye of the beholder." 
+
+cattani 2014:
+    "..most of the existing research on third parties utilizes some form of sales or revenues as the key dependent variable indexing third-party effects on market outcomes (e.g., Pontikes, 2012; Hsu, 2006; Paolella and Durand, 2016; Smith, 2011; Archak, Ghose, and Ipeirotis, 2011; Chevalier and Mayzlin, 2006; Luca, 2011)." 
+    "Sales data, however, are not specific enough to distinguish between value creation and competitive value capture, and thus confound attentional and bargaining effects."
+    "A pure attentional effect, for example, was reported by Tung (2015), a Yelp engineer, who provided data suggesting that simply placing a category label on a business being reviewed on the Yelp website doubles the number of readers’ “click-throughs” to that business’ website." 
+
+durand_granqvist_tyllstrom_2017:
+    "Rhee, Lo, Kennedy, and Fiss propose .... four archetypal situations for category origins." 
+    "Categories might, according to the authors, emerge and prevail over time because of the power of the endorsing audience so called category promoters by a mechanism called fiat, or even without such authority, in a situation theorized as truce." 
+    "They argue, however, that categories arising from such disputed emergence processes are inherently more unstable than those characterized by agreement."
+    "Here, they identify agreement as decentralized through consensus or through proof characterized by a powerful authority." 
+
+durand_rao_monin_2007:
+    "Third, we focus on intermediary outcomes of strategic value—external evaluations–as a key mediator to performance and survival." 
+
+granqvist_grodal_woolley_2013:
+"Extensive use of the hedging strategy, however, particularly when executives consistently overstate affiliation with the category, may affect the legitimation of the category itself. "
+"Studying total quality management, Zbaracki (1998) showed that decoupling a label from reality can accelerate and ultimately challenge the legitimacy of a category (see also Isenberg 2001, Brunnermeier and Nagel 2004). "
+"Our findings add to this literature by suggesting that even inconsistent use of a label by firms without capabilities may have negative outcomes for the market formation. "
+"In our data, the use of the label by executives from firms without label-related capabilities triggered disassociation by others, who perceived a diminished veracity in the label’s categorical reference. "
+"Nonsubstantive labeling practices can reinforce such perceptions of diminished veracity, creating a vicious cycle where disassociation by executives in firms with capabilities gives rise to decoupling between substantive features and label use, thus creating further opportunities for executives in firms without capabilities to claim or hedge the label. "
+"Therefore, nonsubstantive label use can generate untenable expectations that may facilitate the collapse of a category."
+
+hsu_2006:
+    "An organization must also devote some level of engagement, or sustained focus, to making its offerings available and known to targeted audience members." 
+    "It must strive to ensure that audience members actually perceive the fit of its offerings with their preferences." 
+    "As expected, appeal is significantly greater when there is greater consensus on a film’s fit with targeted genres." 
+    "Through the threat of social and economic penalties, audiences pressure producers to conform to existing categories and serve to reproduce the existing structure of the market." 
+
+hsu_hannan_kocak_2009:
+    "As noted above, degree of membership in a category is linked to the intrinsic appeal of a producer/product to targeted audience members; this, in turn, contributes to its expected actual appeal among audience members." 
+    "Note that intrinsic appeal arises from judgments made by audience members about what fits and does not fit a category." 
+    "Intrinsic appeal is thus not directly under producers’ control." 
+    "In many cases, key engagement activities include developing and displaying credible signals of authenticity (Baron 2004; Carroll and Swaminathan 2000; Hsu and Hannan 2005)." 
+    "For example, Carroll and Swaminathan (2000) recount repeated fruitless attempts by major U.S. brewers, such as Anheuser Busch and Miller, to engage in a way that would make a convincing case that these mass brewers are also makers of microbrews." 
+    "We integrate producer- and audience-side processes in our model by proposing that both intrinsic appeal and engagement are needed for actual appeal." 
+    "Suppose we know that one producer’s offering has greater intrinsic appeal in a category than another’s; and all that we know about engagement is that each producer engages the audience as a putative member of the category." 
+    "A sensible inference in such a case is that the offering with the greater intrinsic appeal will also have the greater actual appeal." 
+    "The converse holds true as well; if one producer devotes greater engagement to a category audience than does another, and all we know about intrinsic appeal is that each producer has some, we would infer that the producer with greater engagement will have greater actual appeal." 
+
+kovacs_hannan_2015:
+    "Appeal to an audience increases with the level of genre-specific skills."
+    "So those that attempt (certain) combinations will appeal less to the audience." 
+    "Second, audiences might believe that jacks-of-all trades are generally inferior to specialists (and, according to the argument just sketched, this belief might have a rational basis)." 
+    "Third audience members usually find it hard to make sense of objects whose characteristics cause them to be assigned to multiple genres." 
+    "We do not regard the three arguments as rivals. It seems likely that all three operate in most empirical settings; indeed they are likely intertwined." 
+
+leung_sharkey_2014:
+    "In this paper, our primary aim is to advance the line of research on the role of categories and classification processes in economic settings by establishing that audience perceptions alone can drive the devaluation of category spanners." 
+    "Our approach stems from an insight about the role of labels in the devaluation of multiple-category members." 
+    "Because consumers and evaluators use category labels to identify and make sense of individuals and products, category labels play a key role in the audience perceptions that have been posited to drive the ignoring and devaluing of multiple-category members." 
+
+pontikes_2012: 
+    $$$$ -  they explain the influence of ambiguous label as creating more confusion, but it could be that ambiguous labels are more likely to be disagreed with by audience thereby more likely to lowering the appeal due to let-downs
+    "Together, these studies suggest that ambiguous classification can arise when an organization identifies with multiple labels (organization-level ambiguity) or if it identifies with an ambiguous label (label-level ambiguity)."
+    "In either case, ambiguity causes confusion and results in devaluation of the organization." 
+    "Organizations affiliated with ambiguous labels suffered lower credit ratings in nineteenth-century America (Ruef and Patterson, 2009), returns to specialism in the Italian wine industry were not as great when label boundaries were blurred (Negro, Hannan, and Rao, 2010), and restaurants in low-contrast labels were less likely to be favorably evaluated on an online review site (Kova´cs and Hannan, 2010)." 
+    
+vergne_wry_2014:
+    Audiences not only bestow moral legitimacy with regards to their community at large, but also who is legitimate (i.e. authentic) participant in product markets
+    "In many industries, legitimacy understood as social appropriateness is primarily derived from non-expert audiences (e.g., society at large has an opinion about whether genetically-modified organisms or GMOs should be sold at grocery stores),.." 
+
+verhaal_khessina_dobrev_2015:
+    "In other industries [e.g. whiskey], however, physical differences are not sufficient to easily discriminate among various offerings (McKendrick and Hannan 2014)." 
+    "In such markets, producers’ ability to convert the intrinsic appeal of their products into actual appeal hinges on the extent to which producers can engage their audience." 
+    $$$$
+    "Craft breweries that contract out their beer production are seen by beer enthusiasts as “stealth,” “pretend,” “fake,” and “faux” breweries (Cottone 1995) 
+    "and are perceived as violating the expectations of the collective identity of the craft beer market (Carroll and Swaminathan 2000)." 
+    $$$$
+    "We predicted that when products have names that are congruent with the collective identity of an oppositional market, they have higher appeal to consumers." 
+    "This benefit is attenuated and may even disappear when (1) audience expectations about what type of product should or should not have an oppositional name are violated.." 
+    "Second, this benefit disappears if audiences see the oppositional name as incongruent with product characteristics."
+    "We found that if a beer is an American lager, its appeal is diminished by having an oppositional name."
+    "This happens because a craft American lager is perceived as too similar to the prototypical product of the mass-producer market." 
+    "Consumers do not associate American lagers with the oppositional ideology, and when they see such products carrying oppositional names, their expectations get violated.
+    "Product appeal to consumers shapes both financial success and market longevity of products (Carroll et al. 2010)." 
+    "By showing that names congruent with the ideological discourse make products more appealing to customers, we suggest that strategic naming  of products can be one way for a firm to attain perceptually crisp category membership." 
+
+zhang_liu_2017: 
+    "The consensus from consumers’ perspectives matters as well: brands labeled more consensually among consumers are more popular than brands labeled less consensually." 
+    
+
+
+HYPOTHESIS 2
+Consensus among audience members mediates relationship between category focus and appeal (measured as diversity of tags (jaccard?) proposed by audience)

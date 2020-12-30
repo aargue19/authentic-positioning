@@ -1,0 +1,281 @@
+#############################################################################################################################################################################################################################
+paragraph about data
+#############################################################################################################################################################################################################################
+
+barlow verhaal angus 2019: 
+    "We draw on the text descriptions of the [Google Play Store] apps in our sample to produce this study's two key explanatory variables." [prototype/exemplar similarity]
+
+barlow verhaal hoskins 2018:
+    "To test for product category stigma and its effects, we turn to critical online reviews in the craft beer industry."
+
+bitektine_2011:
+    "The demand for readily available social judgments that evaluators can easily adopt has led to the emergence of institutionalized suppliers of such judgments about organizations." 
+    "For example, mass media provide information and opinions that guide sociopolitical legitimacy judgments of the general public." 
+
+cennamo_santalo_2013:
+    "Many markets in today’s economy, including PC operating systems, digital PDAs, video games, and Web-based systems are organized around platforms, which function as an interface between different groups of users and facilitate value-creation exchanges (Evans, 2003; Gawer, 2010; Rochet and Tirole, 2006).
+    "Multisided markets emerge to mediate transactions between distinct groups of users: for example, between video game consumers and the producers of a gaming platform’s complementary applications and content."
+    ".. console and game title sales from the NPD Group, a leading U.S.-based market research firm."
+    "Other scholars have recently used this source (e.g., Clements and Ohashi, 2005; Corts and Lederman, 2009; Shankar and Bayus, 2003; Venkatraman and Lee, 2004)."
+    "This study addressed these issues and contributed contextual, nuanced evidence of the tradeoffs present in a large and vibrant platform market: the U.S. video game industry."
+
+durand_granqvist_tyllstrom_2017:
+    "Labeling selecting and assigning labels to firms and products and using certain supportive vocabularies in this communication (Granqvist et al., 2013; Loewenstein, Ocasio, & Jones, 2012) is perhaps the most explicit act of categorization." 
+
+durand_rao_monin_2007:
+    "external evaluations of haute cuisine French restaurants during the period 1968 until 1997"
+
+haans_2018:
+    "..websites of firms in the Dutch creative industries.."
+    "Web-scraping methods were used on websites taken from a list of all unique Chamber of Commerce numbers with one of the creative industries as the primary industry." 
+    "I apply latent Dirichlet allocation (LDA), a generative probabilistic model for collections of text (Blei, Ng, & Jordan, 2003), to the full set of websites to model firms' positioning." 
+
+hsu_2006:
+    "The sample used in this study consists of films produced in the U.S. from 2000 to 2003." 
+    "Financial, production, and distribution data on films came from the Internet Movie Database (IMDB)." 
+    "This suggests that the relationship between niche width and audience size should be weaker at the general consumer level, because appeal influences the total size of the consumer audience that attends a film in exhibition." 
+    "Therefore, although both critics and general consumers are key audiences targeted by producers in this context, critics’ reactions should be regarded as the clearest test of the principle of allocation." 
+
+hsu_grodal_2015:
+    "United States from 1964 to 1993 from the Tobacco Merchants Association’s (TMA) Directory of Cigarette Brands (2000, 4th edition)." 
+    
+hsu_hannan_kocak_2009:
+    "We analyze all feature films that were originally released during 2002 and 2003, ran at least one day in a U.S. theater, and are listed in all three archival sources; 398 films meet these criteria."
+    "Data on financial success, production, and distribution come from the IMDB."
+    "RottenTomatoes.com (RT), a Web site that archives reviews of films from a diverse array of professional and amateur critics,.." 
+    "We analyze a sample of eBay auctions that ended on August 31, 2001 in the following 23 categories.."
+
+kovacs_hannan_2015:
+    "Both data sources, Goodreads.com and Yelp.com, allow registered users to submit one or more reviews of book (for Goodreads) or any producer/product (for Yelp) and to record summary ratings, the outcome variable in our analyses." 
+    $$$$
+    "Second, the data source we use for book reviews allows us to construct generalized label functions based on categorizations made by the audience members, not the site curators."
+    "Importantly, Goodreads.com provides information about how reviewers categorize books."
+    "Each reviewer can assign one or more labels to a book but assigning them to a labeled “bookshelf.” These labels are freely chosen by the reviewer." 
+    "They could be those already used by others, or they could be idiosyncratic." 
+    "Goodreads.com aggregates these individual tags by book and lists for each book the ten most commonly applied tags and the number of reviewers who applied that tag to the book." 
+    "This more refined information about labeling obviously allows more accurate assessments of typicalities." 
+    "A book whose tags are half <mystery> and half <romance> is less typical as a mystery and more typical as a <romance> than the one categorized as 80/20." 
+    $$$$
+
+leung_sharkey_2014:
+    "The empirical context for our study is a peer-to-peer crowd-funding website, Prosper.." 
+    "On September 7, 2007, site features were changed such that the category labels once listed on the website were removed, leading to category membership no longer being a visible factor that potential lenders could use to evaluate loan listings."
+    "Our approach, then, is to use this exogenous variation to test how the visibility of the number of categories a group is affiliated with impacts its members’ attractiveness to lenders." 
+
+
+pontikes_2012:
+    "I tested the hypotheses using the empirical context of the U.S. software industry from 1990 through 2002." 
+    "The software industry is segmented by many labels, 456 in this study, and classification evolves rapidly." 
+    "Software is not a tangible product; functionality and comparability with other offerings are difficult to determine before the product is purchased." 
+    "As a result, market labels are an important baseline that actors use when they evaluate an offering." 
+    "This study uses data compiling software organizations and the labels they claim from the 268,963 press releases issued between 1990 and 2002 that contain at least three mentions of the word 'software.'" 
+    "From these press releases, company names and their claimed market labels were extracted." 
+
+
+verhaal_khessina_dobrev_2015:
+    "Consumers provide ratings to declare the value they attach to a firm’s product (Zeithaml 1988, Kovács et al. 2013)." 
+    "Such value ratings are one manifestation of product appeal (Kovács and Hannan 2011)." 
+    "They tend to shape consumer product choices (Sweeney and Soutar 2001) and consequently affect organizational performance (Luca 2011)." 
+    "With the continued proliferation of the Internet as a means of communication and interaction, consumers have been increasingly declaring their value ratings in public forums through online reviews on review websites." 
+    "These websites have recently become a popular data source for studies on product and organizational appeal (e.g., Kovács et al. 2013, Luca 2011)." 
+    "The reviews for this study come from the online beer review website BeerAdvocate (http://www.beeradvocate.com)." 
+
+zhang_liu_2017:
+    "We use the music industry as our empirical study context for three reasons." 
+    "First, as in many other industries (e.g., movie, television, automobile), the music industry displays enormous diversity of products in the form of genres 
+    Second, user-generated content such as tags through social media platforms proliferates in this industry, reflects consumer thoughts and perceptions of brands, and plays an important role in consumer decisions (Marlow et al, 2006; Netzer et al, 2012; Nam and Kannan, 2014)." 
+    "Studying social tags in this industry  thus can bring marketers new insights into brand management in a social media environment." 
+    "Third, facilitated by the rise of social media, the impact of network connections on consumer behavior is increasing (Gensler et al, 2013; Zhang et al, 2015), including consumers’ music listening behavior." 
+    "Thus, the music industry is a suitable study context to examine the impact of network structures on brands’ social media performance." 
+
+    
+
+#############################################################################################################################################################################################################################
+paragraph about measures
+#############################################################################################################################################################################################################################
+
+barlow verhaal angus 2019: 
+    DV "We use Review Count (ln), the logged count of reviews for each app-month observation, as our primary dependent variable."
+    DV "The logged count of downloads would also be a logical measure of app performance."
+    CTL - app-level = age of app, review score; category level = competitive density /# of apps in category, category contrast
+
+barlow verhaal hoskins 2018:
+    DV "Our dependent variable for all hypotheses is beer-year average appeal (or review score)"
+    IV - dummy for membership in stigmatized category
+    IV - "brewery’s reputation. On the basis of prior work, we operationalized reputation as winning a certification contest, which we used as a signal of underlying product quality (Rao, 1994)."
+    CTL "Finally, we find that category stigma at the product level appears to be amplified by an organization’s broader reputation for quality."
+    CTL "Thus, audience members appear to hold reputable firms to a higher standard."
+
+cennamo_santalo_2013:
+    DV - "Platform market share is measured here as the console’s unit sales in a given month over total unit sales of active consoles that month."
+    IV "Distinctive positioning is measured here by comparing the proportion of games offered by a platform in each genre (as in Table 1) with the average figure for that genre at time t.."
+
+
+durand_rao_monin_2007:
+    DV "number of stars received by a chef in the Guide Michelin each year. External evaluation can have three values: 1, 2, or 3."
+    IV "code-preserving change .. replacement of a dish from classical cuisine by another classical cuisine dish or a replacement of a nouvelle cuisine dish by another nouvelle cuisine dish."
+        "code-violating change .. replacement of a classical cuisine dish by a nouvelle cuisine dish or vice versa."
+    IV - AGE
+    CTL - price
+
+haans_2018:
+    DV - "Respondents were asked to indicate in which of the following brackets their total revenues, in Euro, earned during the past year fit:.." 
+    IV - distinctiveness
+    IV - Discinctiveness heterogeneity of category
+    CTL - Density of market
+    CTL - Employee number
+    CTL - Organizational niche width
+
+hsu_2006:
+    DV - "I measured audience size at the professional critic level in terms of the number of reviews published in major media outlets, gathering information on critics’ reviews from RottenTomatoes.com.."
+    DV - "At the regular consumer level, I collected two types of data: (1) responses to films among online film aficionados and (2) total U.S. box office gross receipts."
+    DV - "The second outcome is the overall appeal of each film to audiences." 
+    DV - "Professional critics provide numerical ratings of films on a 0–10 scale, while ratings among IMDB voters are on a 1–10 scale." 
+    DV - "I assessed the overall appeal of each film through the average of its ratings among each of the audiences." 
+    IV - "I treated niche width as the total number of distinct genres under which each film was classified across the three sources and used the natural log of this term.." 
+    IV - "To measure consensus, I calculated the average pairwise similarity between each archival source that listed a film."
+    IV - "I used Jaccard’s coefficient to measure similarity between the classifications of a film in each pair of sources." 
+    CTL - star power, distribution, budget, sequel, distributor type, season
+    CTL - crowding within niche (niche overlap)
+
+hsu_grodal_2015:
+    DV - "Our first two dependent variables are the yearly nicotine and tar deliveries of light cigarette brands.." 
+    IV - "Our main independent variable is the taken-for-grantedness of the light cigarette category." 
+    IV - "To generate this measure, we collected media articles referencing the light cigarette category or its members from 1963 to 1993 and coded them for the extent to which they included detailed explanation of the category’s features and membership criteria." 
+    CTL - sales, media visibility, r+d investment, macro conditions, rivalries btw producers
+
+hsu_hannan_kocak_2009:
+    DV - RT top critics: proportion positive; RT all critics: average rating
+    DV - IMDB users: average rating
+    DV - Ln (film gross)
+    IV - generalist vs. specialists
+    CTL - budget
+    DV - "We assess the success of an offering in two ways: whether an item attracted any bids and whether it was sold."
+    CTL - "We control for sellers’ reputations (measured by feedback scores), previous experience in the focal category (total number of items sold in the previous 17 months), and size of client base (number of repeat buyers in the previous 17 months)." 
+
+hsu_negro_perretti_2012:
+    DV - "Our two measures of firm performance are the exit rate of each production company from the market and whether a production company made a film that obtained exceptional box office gross rentals (i.e. was a Box Office Champ) with (at least) one of its films." 
+    IV - "Genre fuzziness measures the extent to which films in each primary genre are partial versus full-fledged members (Hannan et al., 2007)." 
+    IV - "Our second independent variable measures the diversity of secondary genres films within a primary genre are affiliated with according to the AFI classifications." 
+    CTL - "We included a genre density variable to control for the effect that crowding of products may have on the likelihood of genre spanning." 
+    CTL - "This variable is calculated as the total count of films in a given primary genre in each year, weighted by the number of additional genres for each film."
+    CTL - "Second, we included a control for genre age, measured as the number of years since the release of the first film under each primary genre." 
+    CTL - "We control for differences in experience and resources through two variables: Prod. company tenure, the number of years since the company first appeared in the AFI data, and Prod. company size." 
+
+kovacs_hannan_2015:
+    DV - "registered users to submit one or more reviews of book (for Goodreads) or any producer/product (for Yelp) and to record summary ratings, the outcome variable in our analyses." 
+    IV - "We conduct analyses using the three alternative measures of niche width: the purely discrete measure used in previous research SDB and our proposed alternatives: WMG (for book reviews) and WMB (for restaurant reviews)." 
+    IV - "What we call the maximum contrast of an offer is the maximum of the contrasts (average typicality in a label for those offers with positive typicality) over the labels assigned to it; and its secondary contrast is set to the value for the next-highest contrast label assigned." 
+    CTL - "In both studies we control for variation among reviewers in engagement in the genre and the website using (the natural log of) the number of reviews posted for restaurants, following Hsu et al. (2009). We refer to this variable as the reviewer’s activism." 
+    CTL - "We also control for the book’s/restaurant’s prominence (on the website), measured as the natural log of the number of reviews it receives; and we include the date of a review to control for secular trends in appeal. Finally, we control for price levels." 
+
+leung_sharkey_2014:
+    DV - The dependent variable in our analysis is the amount of funding a loan request (i.e., a listing) received as a percentage of the amount requested." 
+    IV - The key independent variable in this analysis is how many categories a group was affiliated with." 
+
+pontikes_2012:
+    DV - "I used rank in Software Magazine’s Software 500 to measure consumer evaluation." 
+    DV - "This report ranks companies in terms of their software revenues.."
+    IV - "To measure label spanning, I used the number of labels the organization claimed in a given year." 
+    IV - "This is consistent with previous studies on organizational categorization (Hsu, 2006; Hsu, Hannan, and Kocxak, 2009; Kova´cs and Hannan, 2010; Negro, Hannan, and Rao, 2010)." 
+    IV - "I used the opposite of contrast, fuzziness, as one measure of label ambiguity." 
+    IV - "Empirically, studies have measured ambiguity in terms of whether organizations that claim a label also identify with other labels (Carroll et al., 2010; Kova´cs and Hannan, 2010)." 
+    IV - "The idea is that when many members of a label claim an alternate identity, this interferes with audiences’ ability to see the label as distinct." 
+    IV - "Venture capitalist evaluations were measured in terms of whether a company received venture capital funding in a given year."
+    IV - "Data came from the Venture Economics database from Thomson Financial." 
+    CTL - number of times the organization received venture capital financing over its history
+    CTL - whether had previously appeared in the Software Magazine rankings
+    CTL - whether the organization was public
+    CTL - whether only member of its label
+    CTL - number of members in an organization’s labels (weighted by grade of membership), also called the fuzzy density
+
+verhaal_khessina_dobrev_2015:
+    DV - "The dependent variable is the beer’s audience appeal." 
+    DV - "It is based on customer reviews of beers on BeerAdvocate." 
+    IV - "Our key independent variable is oppositional beer name." 
+    IV - "It is a time-invariant dummy that takes the value of one if the name of a beer contains an anti-mass-production reference, defined as any word that conveys the key features associated with the oppositional identity of the craft beer market: small-scale production, artisanality, exclusivity, authenticity, and quality." 
+    IV - "To test whether cognitive association with incumbent (i.e., mass-produced) prototype products dampens the effect of beer oppositional names, we interacted the latter with American lager—a time-invariant dummy that takes the value of one if the style of a given beer is in the American  lager category." 
+    IV - "To measure the extent to which a brewery has developed an external identity congruent with the collective oppositional codes of the craft beer market, we created a time-variant variable, brewery cumulative beer style count, which is the cumulative number of unique beer styles for which the brewery has received at least one review on BeerAdvocate in a given year." 
+    CTL - "Product, firm, and industry characteristics may all affect the appeal of a product to consumers (Carroll et al. 2010)." 
+    CTL - the number of words in a beer’s name
+    CTL - the average number of reviews by all raters of a given beer that they submitted about any beer in a given year
+    CTL - producer’s size may affect the appeal of its products: dummy regional brewery
+    CTL - Past public success: cumulative number of medals that a brewery won in the blind tasting competition
+    CTL - brewery time since first review, measured as the number of years since the first review for a given brewery was posted 
+    CTL - "Industry-level controls. Product proliferation may drive both legitimation and competition processes, and thus affect product appeal in a nonmonotonic way (Greenstein and Wade 1998)."
+    CTL - "Density of beers and its square, measured respectively as the total number of beers that received at least one review on BeerAdvocate in a given year and its square, account for this influence." 
+
+zhang_liu_2017:
+    DV - Brand popularity: Number of listeners of a musician
+    DV - "As Table 3 shows, the distribution of brand popularity is highly skewed and displays a long-tail characteristic. This echoes the ‘‘stardom’’ phenomenon observed in many industries (e.g., cultural products) in which few people dominate the marketplace, generating winner-take-all outcomes (Rosen, 1981; Frank and Cook, 1995; Anderson, 2006). We take the natural log of all variables to normalize the data." 
+    IV - Niche width: Number of unique tags a musician has received
+    IV - Audience consensus Consensusi Consensus of tags among users who have tagged the same musician
+    IV - "To measure consensus among the audience about the positioning of a musician, we calculate the average pairwise similarity between each user’s tags on a musician." 
+    IV - "We use the Jaccard coefficient to measure similarity between the categorization of a musician of each pair of users who have tagged this musician." 
+    IV - "This measure is a commonly used similarity measure reflecting the proportion of binary categorizations that match between two sources (Everitt et al, 2001; Hsu, 2006)." 
+    IV - Network density: The average network density of users who have tagged a musician
+    IV - Brand age: Elapsed months between the time a musician first released an album and the time the data were collected, June 2011
+    IV - Number of users: Number of users who have tagged a musician
+    IV - Finally, because the number of people who tag a musician could potentially influence the consensus among the tags, we add it as a control variable for audience consensus." 
+
+#############################################################################################################################################################################################################################
+paragraph about analysis
+#############################################################################################################################################################################################################################
+
+barlow verhaal angus 2019: 
+    "Standard fixed effects regression models are inappropriate since our main independent variables do not vary over time (they measure similarity at app entry)."
+    "Therefore, to test our hypotheses, we utilize time-series generalized estimating equations (GEE)"
+
+barlow verhaal hoskins 2018:
+    "we utilize the two-way robust clustering regression analysis developed by Cameron, Gelbach, and Miller (2011)."
+    "Thesemethods adjust the standard errors to account for the clustered nature of the data."
+    "Alternatively, because our dependent variable is bound between 1 and 5, a Tobit model is also an appropriate choice (Tobin, 1958)."
+
+durand_rao_monin_2007:
+    "ordered logit model"
+
+hsu_2006:
+    "..consensus in genre classifications."
+    "This was estimated using the fractional logit regression model proposed by Papke and Wooldridge (1996)." 
+    "Following a standard procedure for determining mediation (Baron and Kenny, 1986), I next estimated the effect of consensus about genre classification on appeal without controlling for niche width." 
+
+hsu_grodal_2015:
+    "We estimate changes in new brands’ nicotine/ tar deliveries using multilevel models that account for nesting within firms and within brand families (Bryk and Raudenbush 1992; Snijders and Bosker 1999)." 
+    
+hsu_hannan_kocak_2009:
+    "We report ML estimates of logistic regressions of the probability that (1) the item title includes an acronym, (2) the title includes a quality indicator, and (3) the auction results in a sale." 
+
+hsu_negro_perretti_2012:
+    "We used logit models to estimate the likelihood a new film is a hybrid versus single genre." 
+
+kovacs_hannan_2015:
+    "We estimate ordered logit specifications by maximum likelihood with random effects for reviewer." 
+
+leung_sharkey_2014:
+    "Because our dependent variable is continuous, we estimated linear regression models using ordinary least squares (OLS)." 
+    "However, we included dummy variables for each high-level category with which a group was affiliated, thereby controlling for the possibility that some categories were disliked and that multiple-category groups might have been more likely to include a disliked category." 
+
+pontikes_2012:
+    "I estimated the effects of label ambiguity and label spanning on an organization’s Software Magazine inverse rank." 
+    "I used Tobit estimation, which is appropriate for modeling a variable that covers a limited range of values." 
+    "I investigated the likelihood that an organization received venture capital funding." 
+    "To estimate this, I used a piecewise continuous hazard rate model." 
+
+verhaal_khessina_dobrev_2015:
+    "Our data are structured as an unbalanced panel with a varying number of annual observations for each beer." 
+    "When testing the hypotheses, it is necessary to take into account that each beer’s observations are possibly autocorrelated across years because of permanent but unobserved brewery-level characteristics."
+    "These correlations violate the assumption of independence across observations necessary for ordinary least squares regression." 
+    "To address this issue, we use a population-average technique, specifically, the method of generalized estimating equations (GEE), which allows us to model the variance both between beers and across time for each beer." 
+
+zhang_liu_2017: 
+    "We use a simultaneous-equations model to test our hypotheses (Basuroy et al, 2006)."
+    "Using the three-stage least squares (3SLS) procedure, we estimate log-linearized versions of Eqs. (1) and (2)." 
+    $$$$
+    "Ordinary least square is inconsistent because the endogenous variable Consensus used as a righthand- side variable in the popularity equation is correlated with the disturbance term in the same equation."
+    $$$$
+    
+
+
+#############################################################################################################################################################################################################################
+paragraph about anticipated results
+#############################################################################################################################################################################################################################

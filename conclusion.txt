@@ -1,0 +1,67 @@
+#############################################################################################################################################################################################################################
+paragraph summarizing everything
+#############################################################################################################################################################################################################################
+
+
+#############################################################################################################################################################################################################################
+paragraph about contributions
+#############################################################################################################################################################################################################################
+
+bitektine_2011:
+    "The article suggests that while some social contexts dictate the use of a particular form of judgment ...., other social contexts give evaluatorsmore choice (e.g., a customer can assess product quality with reputation or status judgments)."
+    "The exploration of different social contexts of evaluation and their effect on judgment selection presents an important direction for future research on functional roles of social judgment forms."
+
+etter_ravasi_collenoni_2019:
+The mutating media landscape requires us to think in a new way about how increasingly
+diverse media evaluations, co-produced by multiple actors and disseminated through multiple
+channels, influence the formation of organizational reputation.
+
+glynn_navis_2013
+    "These findings highlight the temporal fluidity of category prototypes and the active role of both firms and audiences in their establishment and evolution." 
+    
+grodal_kahl_2017:
+    "While the existing literature has pointed out that selection happens in that few category labels survive into the later stages of the categorization process and that the boundaries around the surviving category labels solidify (Grodal et al., 2015; Hannan et al., 2007), we still have little insight into the mechanisms through which this happens." 
+    "A discursive perspective provides insight into how the selection process works and can help map how categorization unfolds over time as an interactive process between market participants." 
+    "In conclusion, we argue that paying attention to how market stakeholders use categories to communicate with each other, instead of only paying attention to what categories represent, has the potential to take categorization research to the next level." 
+
+haans_2018:
+    "It would be interesting for future research to study whether or not alternative approaches become more dominant in heterogeneous settings, whether or not the average-asprototype dominates other reference points in homogeneous categories, or whether alternative approaches operate simultaneously to the prototype-as-average." 
+    "Such comparative insights would further the accumulation of knowledge about the role of different (types of ) reference points for optimal distinctiveness." 
+    "Certainly, it is unlikely that strategic positioning is a complete free-for-all in heterogeneous settings." 
+
+hsu_2006:
+    "The current study has largely focused on external perceptions of organizational identity but points to interesting ways of conceptualizing and measuring consensus in the perceptions of internal and external audiences." 
+
+pontikes_2012:
+    "This study also adds to the literature on classification by studying market
+classification that is an informal taxonomy based on identity claims made by
+organizations themselves. Although theorists dating back to Durkheim (1933)
+have discussed how classification systems arise through informal interactions
+among groups, recent sociological research on classification has investigated
+systems created exogenously—by governments, industry organizations, or on
+Web sites. Research either focuses on how employees and managers understand
+who ‘‘we’’ are as an organization, which guides strategic decisions
+(Albert and Whetten, 1985; Dutton and Dukerich, 1991), or on how external
+actors categorize an organization, which influences evaluation (Zuckerman,
+1999; Hannan, Po´ los, and Carroll, 2007).
+
+#############################################################################################################################################################################################################################
+paragraph about limitations and future directions
+#############################################################################################################################################################################################################################
+
+hsu_grodal_2015:
+    "Multiple studies find the taken-for-grantedness of a category shapes how producers define their category and categorical identities to other market participants (Granqvist et al. 2013; Kennedy 2008; King, Clemens, and Fry 2011; Lounsbury and Glynn 2001; Navis and Glynn 2010)." 
+    "A recent study by Pontikes (2013) further suggests that the extent to which a category is clearly demarcated from others in its domain shapes a producer’s decision to claim membership within it versus advance a new market category."
+    " Market participants reactions to category spanning are also affected by perceptions of how the bridged categories fit together (Wry, Lounsbury, and Jennings 2013) and participants’ specific role in the market (Pontikes 2012)." 
+    
+
+vergne_wry_2014:
+    "While it is well beyond the scope of this paper to provide a unified theory of prototypicality,
+we believe that category scholars should be aware of the different definitions of this construct. To
+foster knowledge accumulation in the long run, we suggest testing these different perspectives
+against one another using qualitative research designs (e.g., surveying a category’s audience would
+help understand which prototypes they actually have in mind). In the short run, instead of trying to
+measure prototypicality in general terms, scholars could focus their measurement effort on more
+precise constructs with higher internal validity, such as saliency (by surveying the audience of
+interest), isomorphism (often measured as deviation from industry average), or fit with schemata (by
+looking at departure from population templates).
